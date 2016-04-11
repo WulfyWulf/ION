@@ -82,7 +82,7 @@ Price | Item     | Supplier
 Price	 |Amt.	| Item	| Supplier
 :---- | :------: | :------- | ---:
 |$300	|12 ct. |30rnd MP5 Mag		|(ION)
-|$100	|20 ct. |7nd 12ga. Mix		|(ION)
+|$200	|20 ct. |7nd 12ga. Mix		|(ION)
 |$600	|12 ct. |30rnd STANAG		|(ION)
 |$400	|10 ct. |20rnd M14 Mag		|(US Army Surplus)
 |$200	|10 ct. |5rnd M40 Clip		|(ION)
