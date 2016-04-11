@@ -30,8 +30,8 @@
 >####Automatically Replenished Ammunition
 >|D/E Cost | Item	|
 >| --------- | --------: |
->|$5|	  M1911 mag|
->|$7|	  M9 mag|
+>|$7|	  M1911 mag|
+>|$8|	  M9 mag|
 
 ***
 
