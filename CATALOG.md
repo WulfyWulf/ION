@@ -7,7 +7,7 @@
 ###GEAR
 
 ####Helmets
-|Price | Item     | Protection | Supplier|
+|Price | Item     | [Protection](http://www.safeguardarmor.com/support/body-armor-protection-levels/) | Supplier|
 |----- | :------ | :--------: | ---:|
 |$200	|ProTec ABS Helmet 	|[IIa] 	|(COTS)|
 |$300	|PASGT Kevlar Helmet	|[II]	|(US Army Surplus)|
@@ -24,7 +24,7 @@ Price | Item     | Magazines | Supplier
 ***
 
 ####Armored Vests
-Price | Item     | Magazines | Protection | Supplier
+Price | Item     | Magazines | [Protection](http://www.safeguardarmor.com/support/body-armor-protection-levels/) | Supplier
 :---- | :------ | :-------: | :--------: | ---:
 |$500	|IOTV Vest			|[5p]	|[II]	|(US Army Surplus)|
 |$800	|V-1 Basic Vest			|[6p]	|[IIIa]	|(COTS)|
