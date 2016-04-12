@@ -15,6 +15,8 @@
 >>2. Elimination of TARGET's entire identified comprised forces and materiel.
 >>3. Identification of any documents or files related to connected individuals of TARGET.
 
+***
+
 >>###CONTRACT PAYMENT
 >>Payment upon CONTRACT completion will be in accordance with the following rules:
 
