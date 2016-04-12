@@ -3,6 +3,8 @@
 > ###From: ION Contract Management System
 
 ----------
+>###CONTRACT: REMOVAL OF THREAT
+>###CLIENT: AGOLA SOLAR
 >###JOB OPEN: 4/12/13 - [NO END DATE SET]
 >***
 >###CONTRACT DESCRIPTION
