@@ -42,4 +42,4 @@
 |$1500|	Offroad		|MOL|
 |$600|	ATV		|MOL|
 |$1500|	Truck		|MOL|
-
+|$3000| Ural |MOL|
