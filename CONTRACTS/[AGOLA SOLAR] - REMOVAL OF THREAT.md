@@ -8,12 +8,12 @@
 >###RISK ASSESSMENT: HIGH
 >###JOB OPEN: 4/12/13 - [NO END DATE SET]
 >***
->###CONTRACT DESCRIPTION
->Representative of Agola Solar (CLIENT) has posted an offer (CONTRACT) for a private security contractor (CONTRACTOR) to assist with the removal of threats to their productivity (TARGET). CONTRACT has three OBJECTIVES outlined by the CLIENT:
->
->1. Tracking and locating of TARGET's operating headquarters.
->2. Elimination of TARGET's entire identified comprised forces and materiel.
->3. Identification of any documents or files related to connected individuals of TARGET.
+>>###CONTRACT DESCRIPTION
+>>Representative of Agola Solar (CLIENT) has posted an offer (CONTRACT) for a private security contractor (CONTRACTOR) to assist with the removal of threats to their productivity (TARGET). CONTRACT has three OBJECTIVES outlined by the CLIENT:
+>>
+>>1. Tracking and locating of TARGET's operating headquarters.
+>>2. Elimination of TARGET's entire identified comprised forces and materiel.
+>>3. Identification of any documents or files related to connected individuals of TARGET.
 
 >>###CONTRACT PAYMENT
 >>Payment upon CONTRACT completion will be in accordance with the following rules:
