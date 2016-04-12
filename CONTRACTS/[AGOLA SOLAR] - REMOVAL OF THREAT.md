@@ -27,7 +27,7 @@
 >>- **CONTRACT COMPLETION:** *$40,000*
 >>  - OBJECTIVES ONE and TWO completed, CONTRACT terminated by CLIENT or CONTRACTOR.
 >>- **BONUS CONTRACT:** *+$5,000*
->>  - CONTRACT COMPLETION and OBJECTIVE THREE completed, CONTRACT terminated by CLIENT or CONTRACTOR.
+>>  - CONTRACT COMPLETION and OBJECTIVE THREE completed.
 
 ***
 
