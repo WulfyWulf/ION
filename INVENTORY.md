@@ -52,6 +52,6 @@
 |Sell Price | Model    	 | Location |
 | --------- | :--------- | -------: |
 |$1500|	Offroad		|MOL|
-|HOT|	SUV		|MOL|
+|HOT|	SUV		|STASH|
 |$1500|	Truck		|MOL|
 |$3000| Ural |MOL|
