@@ -3,10 +3,10 @@
 > ###From: ETS Bank AG, AMS (no reply)
 
 ----------
->##Statement Date: 4/13/13
+>##Statement Date: 4/14/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$2,700
+>>###$1,600
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -14,6 +14,7 @@
 >|4/11/13|$3,400|
 >|4/12/13|$10,200|
 >|4/13/13|$2,700|
+>|4/14/13|$1,600|
 
 ***
 
@@ -35,4 +36,4 @@
 |4/12/13|DEPOSIT|+1000|MOLOS ORTHODOX|
 |4/13/13|TRANSFER|-8400|ION Armaments|
 |4/13/13|DEPOSIT|+1000|MOLOS ORTHODOX|
-
+|4/14/13|WITHDRAWAL|-1000|PAULOS ILISONI
