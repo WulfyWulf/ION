@@ -3,16 +3,17 @@
 > ###From: ETS Bank AG, AMS (no reply)
 
 ----------
->##Statement Date: 4/12/13
+>##Statement Date: 4/13/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$10,200
+>>###$2,700
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
 >|4/10/13|$1,000|
 >|4/11/13|$3,400|
 >|4/12/13|$10,200|
+>|4/13/13|$2,700|
 
 ***
 
@@ -32,4 +33,6 @@
 |4/12/13|TRANSFER|+5500|SEARA SHIPPING CO.|
 |4/12/13|DEPOSIT|+400|ANTON VILLIARO|
 |4/12/13|DEPOSIT|+1000|MOLOS ORTHODOX|
+|4/13/13|TRANSFER|-8400|ION Armaments|
+|4/13/13|DEPOSIT|+1000|MOLOS ORTHODOX|
 
