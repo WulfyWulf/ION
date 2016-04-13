@@ -25,8 +25,6 @@
 >|$15|	MP5 Mag		|8	|MOL|
 >|$5|	Sa.61 Mag	|4	|MOL|
 
-<br>
-
 >####Automatically Replenished Ammunition
 >|D/E Cost | Item	|
 >| --------- | --------: |
@@ -35,11 +33,25 @@
 
 ***
 
+
+
+###GEAR
+|Sell Price | Item	| Number | Location|
+| --------- | :-------- | :----: | -------: |
+|$800|	V-1 Assault Vest	|2	|MOL|
+|$300|	IOTV Light Vest	|6	|MOL|
+|$400|	Combat Buttpack	|6	|MOL|
+|$300|	Assault Backpack		|2	|MOL|
+
+<br>
+
+***
+
 ###CARS
 
 |Sell Price | Model    	 | Location |
 | --------- | :--------- | -------: |
 |$1500|	Offroad		|MOL|
-|$600|	ATV		|MOL|
+|HOT|	SUV		|MOL|
 |$1500|	Truck		|MOL|
 |$3000| Ural |MOL|
