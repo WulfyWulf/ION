@@ -7,6 +7,8 @@
 |Sell Price | Item    	 | Number | Location |
 | --------- | :--------- | :----: | -------: |
 |$500|	AK-47 		|1	|MOL|
+|$600|  AKM       |1  |MOL|
+|$500|  AKS       |1  |MOL|
 |$300|	MP5A5 		|1	|MOL|
 |$400|	M1014		|1	|MOL|
 |$50|	M1911		|5	|MOL|
@@ -19,11 +21,13 @@
 >####Non-Replenished Ammunition
 >|Sell Price | Item	| Number | Location|
 >| --------- | :-------- | :----: | -------: |
->|$20|	AK-47 Mag	|3	|MOL|
+>|$20|	AK-47 Mag	|12	|MOL|
 >|$5|	12ga. 00 Buck	|10	|MOL|
->|$5|	12ga. Slug	|10	|MOL|
+>|$5|	12ga. Slug	|9	|MOL|
 >|$15|	MP5 Mag		|8	|MOL|
 >|$5|	Sa.61 Mag	|4	|MOL|
+>|$20|  RGD-5   |2  |MOL|
+>|$30|  M67     |1  |MOL|
 
 >####Automatically Replenished Ammunition
 >|D/E Cost | Item	|
@@ -45,6 +49,14 @@
 
 <br>
 
+###EQUIPMENT
+|Sell Price | Item	| Number | Location|
+| --------- | :-------- | :----: | -------: |
+|$1000|	AN/PVS-7      	|1	|MOL|
+
+
+<br>
+
 ***
 
 ###CARS
@@ -53,5 +65,4 @@
 | --------- | :--------- | -------: |
 |$1500|	Offroad		|MOL|
 |HOT|	SUV		|STASH|
-|$1500|	Truck		|MOL|
 |$3000| Ural |MOL|
