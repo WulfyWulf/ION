@@ -5,15 +5,16 @@
 ----------
 >###CONTRACT: COURIER PICKUP AND DELIVERY 
 >###CLIENT: SEARA SHIPPING CO.
->###RISK ASSESSMENT: MEDIUM
->###JOB OPEN: 4/13/13 - 4/14/13
+>###RISK ASSESSMENT: ~~MEDIUM~~ **HIGH**
+>###~~JOB OPEN: 4/13/13 - 4/14/13~~
 >***
 >>###CONTRACT DESCRIPTION
 >>Mr. Petrescu of the Black Sea based Seara Shipping Company (CLIENT) has requested another short-notice delivery of a package (CONTRACT). The package to be delivered (PACKAGE) is to not be damaged under any circumstances. CONTRACT has three OBJECTIVES outlined by the CLIENT:
 >>
 >>1. Pickup of PACKAGE from CLIENT's delivery group at the specified time (to be given upon CONTRACT acceptance).
 >>2. Transport of PACKAGE to designated drop point (to be given upon CONTRACT acceptance).
->>3. PACKAGE must be undamaged upon receipt.
+>>~~3. PACKAGE must be undamaged upon receipt.~~
+>>3. Entire PACKAGE arrives intact.
 
 ***
 
@@ -23,8 +24,13 @@
 >>- **CONTRACT FAILURE:** *$0*
 >>  - OBJECTIVES ONE and TWO NOT completed, CONTRACT terminated by CLIENT or CONTRACTOR.
 >>  - OBJECTIVES ONE and TWO completed, but OBJECTIVE THREE failed.
->>- **CONTRACT COMPLETION:** *$20,000*
->>  - OBJECTIVES ONE, TWO, and THREE completed.
+>>- **CONTRACT COMPLETION:** *$20,000* 
+>>  - ~~OBJECTIVES ONE, TWO, and THREE completed.~~ OBJECTIVES ONE and TWO completed.
+>>- *PACKAGE INTEGRITY BONUS: +$5,000 ea.*
+>>  - *OBJECTIVES ONE and TWO completed, per component of PACKAGE delivered.*
+>>- *BONUS: +$10,000*
+>>  - *OBJECTIVES ONE, TWO, and THREE completed.*
+
 
 ***
 
