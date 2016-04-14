@@ -73,11 +73,11 @@ Price | Item     | Supplier
 |$5500  |Mk14 EBR       |ION|
 |||
 |$6000  |M60E4          |US Army Surplus|
-|$6500	|FN Minimi	  	|FN|
+|$8500	|FN Minimi	  	|FN|
 |||
 |$3500	|Mk12 SPR		|Colt|
 |$5500  |SR-25|     |US Army Surplus|
-|$4000	|M40A3			|ION|
+|$3000	|M40A3			|ION|
 |$9000  |M82A1      |ION|
 |||
 |$3000  |M203               |Colt|
@@ -107,7 +107,7 @@ Price	 | You save... | Contents	| Amount	| Supplier  |
 :---- | :------: |:------: | :------- | ---:
 |$4000    |$500   |FN FAL	      |3		    |FN|
 |$9000    |$1000  |M4A3         |5        |ION|
-|$4500    |$1500  |M40A3,Leupold Mk4|1,1  |ION|
+|$3500    |$1500  |M40A3,Leupold Mk4|1,1  |ION|
 |$35000   |$5000  |M136 AT4     |10       |ION|
 |$5000    |$1000  |M14	        |5		    |US Army Surplus|
 |$7000    |$1200  |M16A2        |4        |US Army Surplus|
