@@ -76,7 +76,7 @@ Price | Item     | Supplier
 |$8500	|FN Minimi	  	|FN|
 |||
 |$3500	|Mk12 SPR		|Colt|
-|$5500  |SR-25|     |US Army Surplus|
+|$5500  |SR-25      |US Army Surplus|
 |$3000	|M40A3			|ION|
 |$9000  |M82A1      |ION|
 |||
