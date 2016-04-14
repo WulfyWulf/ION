@@ -6,7 +6,7 @@
 >##Statement Date: 4/15/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$71,500
+>>###$70,250
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -15,14 +15,15 @@
 >|4/12/13|$10,200|
 >|4/13/13|$2,700|
 >|4/14/13|$1,600|
->|4/15/13|$71,500|
+>|4/15/13|$70,250|
 
 ***
 
 ##*Automatic Daily Transactions*
 |Amount | Account | Note
 | --------- | :-------- | -------: | 
-|-50|ION|Base Franchisee Upkeep|
+|-300|ION|Base Franchisee Upkeep|
+|-1000|Admin|Contractor Employment|
 |-35|Aegios Development Corp.|Molos Office Rent|
 |-15|ION|Defensive Munitions Supply Lease|
 
