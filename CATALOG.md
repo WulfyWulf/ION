@@ -49,41 +49,41 @@
 
 |Price | OpCost/day      | Item     | Supplier
 | :---- | :------: | :------- | ---: |
-|$400   |$10  |P99        |ION|
-|$500   |$15  |Glock 17   |ION|
-|$600   |$15  |Taurus 455 |ION|
-|$600   |$20  |FNX-45     |FN|
+|$600   |$10  |P99        |ION|
+|$700   |$15  |Glock 17   |ION|
+|$800   |$15  |Taurus 455 |ION|
+|$1000  |$20  |FNX-45     |FN|
 ||||
-|$500	  |$10  |MP5A5			|ION|
-|$700   |$20  |MP5SD6     |ION|
-|$400	  |$10  |M1014			|ION|
-|$2000  |$50  |AA-12      |ION|
+|$600	  |$10  |MP5A5			|ION|
+|$1000   |$20  |MP5SD6     |ION|
+|$700	  |$10  |M1014			|ION|
+|$3000  |$50  |AA-12      |ION|
 ||||
-|$1500 	|$35  |M4A1			|Colt|
-|$1500  |$35  |M4A3     |ION|
-|$700	  |$30  |M16A2			|US Army Surplus|
-|$1500	|$30  |M16A4			|Colt|
-|$2000  |$35  |FN F2000       |FN|
-|$3800  |$40  |SCAR-L/kit |FN|
-|$4000  |$45  |SCAR-H/kit |FN|
+|$2500 	|$35  |M4A1			|Colt|
+|$2000  |$35  |M4A3     |ION|
+|$1000	|$30  |M16A2			|US Army Surplus|
+|$2500	|$30  |M16A4			|Colt|
+|$3000  |$35  |FN F2000       |FN|
+|$4800  |$40  |SCAR-L/kit |FN|
+|$5000  |$45  |SCAR-H/kit |FN|
 ||||
-|$800	  |$20  |FN FAL			    |FN|
-|$700	  |$15  |FN FAL SBR	  	|FN|
-|$600 	|$25  |M14		      	|US Army Surplus|
+|$1000	  |$20  |FN FAL			    |FN|
+|$900	  |$15  |FN FAL SBR	  	|FN|
+|$800 	|$25  |M14		      	|US Army Surplus|
 |$2500  |$35  |Mk14 EBR       |ION|
 ||||
 |$4000  |$40  |M60E4          |US Army Surplus|
 |$6000	|$50  |FN Minimi	  	|FN|
 ||||
-|$1500	|$30  |Mk12 SPR		|Colt|
-|$2500  |$50  |SR-25      |US Army Surplus|
+|$2500	|$30  |Mk12 SPR		|Colt|
+|$4500  |$50  |SR-25      |US Army Surplus|
 |$3000	|$10  |M40A3			|ION|
 |$7000  |$100 |M82A1      |ION|
 ||||
-|$2000  |$40 |M203               |Colt|
-|$3000  |$50 |Mk13 EGLM          |FN|
+|$3000  |$40 |M203               |Colt|
+|$4000  |$50 |Mk13 EGLM          |FN|
 |$2000	|N/A |M136 AT4 Launcher	|ION|
-|$5000  |$100 |M32 MGL            |ION|
+|$6000  |$100 |M32 MGL            |ION|
 
 ***
 
