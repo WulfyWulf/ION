@@ -27,10 +27,6 @@
 |$40   |$10  |Chemlights	    |MOL|
 |$300   |$20 |Flares         |MOL|
 |$150   |$70  |Smoke Grenades   |MOL|
-|||||
-|$400     |$10  |Bipod    |MOL|
-|$2000    |$30  |ACOG    |MOL|
-|$1000    |$50  |Leupold Mk4    |MOL|
 
 ***
 
@@ -47,15 +43,16 @@
 |||||
 |$50   |$10  |PASGT Helmet		|8	|MOL|
 
-<br>
+***
 
 ###EQUIPMENT
 |Sell Price | OpCost/day | Item	| Number | Location|
 | :--------- | :-------: | :-------- | :----: | -------: |
-|$2000   |$50  |AN/PVS-7      	|1	|MOL|
-
-
-<br>
+|||||
+|$400     |$10  |Bipod    |1  |MOL|
+|$2000    |$30  |ACOG     |1  |MOL|
+|$1000    |$50  |Leupold Mk4  |1  |MOL|
+|$2000   |$50  |AN/PVS-7      |1	|MOL|
 
 ***
 
