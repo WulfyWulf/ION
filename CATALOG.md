@@ -87,6 +87,23 @@
 
 ***
 
+###ORDNANCE
+|Price | OpCost/day      | Item     | Supplier
+:---- | :------: | :---- | ---: |
+|$50    |$5   |Chemlights             |COTS|
+|$400   |$5  |Hand Flares           |COTS|
+|$450   |$20  |M67 Frag Grenades     |US Army Surplus|
+|$200   |$10  |Smoke Grenades          |US Army Surplus|
+|$600   |$10  |Stun Grenades          |ION|
+|||||
+|$1000  |$40  |Demolition Block        |ION|
+|$2500  |$60  |Satchel Charge        |ION|
+|$3000  |$50  |M18 Claymore        |ION|
+|$2500  |$40  |VS-50 AP Mine        |ION|
+|$3000  |$80  |M15 AT Mine          |ION|
+
+***
+
 ###EQUIPMENT
 |Price | OpCost/day      | Item     | Supplier
 :---- | :------: | :---- | ---: |
