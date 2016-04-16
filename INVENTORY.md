@@ -20,8 +20,8 @@
 ###GEAR
 |Sell Price | OpCost/day | Item	| Number | Location|
 | :--------- | :-------: | :-------- | :----: | -------: |
-|$300   |$10  |V-1 Assault Vest	|2	|MOL|
-|$200   |$20  |IOTV Light Vest	|6	|MOL|
+|$200   |$10  |IOTV Light Vest	|6	|MOL|
+|$300   |$20  |V-1 Assault Vest	|2	|MOL|
 |$50    |$10  |Combat Buttpack	|6	|MOL|
 |$200   |$20  |Assault Backpack		|2	|MOL|
 
