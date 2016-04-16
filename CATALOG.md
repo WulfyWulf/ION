@@ -62,20 +62,20 @@
 |$2500 	|$35  |M4A1			|Colt|
 |$2000  |$35  |M4A3     |ION|
 |$1000	|$30  |M16A2			|US Army Surplus|
-|$2500	|$30  |M16A4			|Colt|
+|$2500	|$35  |M16A4			|Colt|
 |$3000  |$35  |FN F2000       |FN|
 |$4800  |$40  |SCAR-L/kit |FN|
 |$5000  |$45  |SCAR-H/kit |FN|
 ||||
 |$1000	  |$20  |FN FAL			    |FN|
 |$900	  |$15  |FN FAL SBR	  	|FN|
-|$800 	|$25  |M14		      	|US Army Surplus|
+|$800 	|$25  |M14		      	|USMC Surplus|
 |$2500  |$35  |Mk14 EBR       |ION|
 ||||
 |$4000  |$40  |M60E4          |US Army Surplus|
 |$6000	|$50  |FN Minimi	  	|FN|
 ||||
-|$2500	|$30  |Mk12 SPR		|Colt|
+|$3500	|$30  |M21 DMR		|USMC Surplus|
 |$4500  |$50  |SR-25      |US Army Surplus|
 |$3000	|$10  |M40A3			|ION|
 |$7000  |$100 |M82A1      |ION|
@@ -91,13 +91,23 @@
 |Price | OpCost/day      | Item     | Supplier
 :---- | :------: | :---- | ---: |
 |$1000  |$30 |Ballistic Shield       |ION|
+|||||
 |$1200	|$50 |Leupold Mk4 LR Scope	  |ION|
 |$2500	|$30 |Trijicon ACOG	      	|ION|
 |$1500	|$10 |EoTech Holo		        |ION|
 |$1200	|$10 |M68 CCO	            	|US Army Surplus|
+|$3000	|$30 |AN/PVS-4 NVS	        	|ION|
+|||||
+|$2000  |$20  |Light Suppressor (Pistol)  |ION|
+|$3000  |$30  |Medium Suppressor (Light Rifle)  |ION|
+|$3500  |$50  |Heavy Suppressor (Heavy Rifle)  |ION|
+|||||
+|$500  |$10  |Bipod  |COTS|
+|$2000  |$10  |Flashlight  |COTS|
+|$2500  |$20  |IR Pointer  |COTS|
+|||||
 |$1000  |$20 |Vector 21 Rangefinder  |US Army Surplus|
 |$4000  |$50 |MX-2A TID              |ION|           
-|$3000	|$30 |AN/PVS-4 NVS	        	|ION|
 |$3000	|$50 |AN/PVS-7 NVG	         	|ION|
 
 ***
