@@ -1,5 +1,5 @@
 > ##MEMO: INVENTORY MANIFEST
-> ###To: CHKos Office
+> ###To: Charkia Office
 > ###From: Kavala Office
 
 ----------
