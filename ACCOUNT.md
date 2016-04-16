@@ -3,10 +3,10 @@
 > ###From: ETS Bank AG, AMS (no reply)
 
 ----------
->##Statement Date: 4/15/13
+>##Statement Date: 4/16/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$45,500
+>>###$43,500
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -16,6 +16,7 @@
 >|4/13/13|$2,700|
 >|4/14/13|$1,600|
 >|4/15/13|$45,500|
+>|4/16/13|$43,500|
 
 ***
 
@@ -42,3 +43,4 @@
 |4/15/13|TRANSFER|-500|PIRANHA SHIPPING CO.|
 |4/15/13|TRANSFER|+5400|BADMIN ABU.s.|
 |4/15/13|TRANSFER|-29650|ION ARMAMENTS|
+|4/16/13|TRANSFER|-2000|SPARTAN CONSTRUCTION PROJECTS|
