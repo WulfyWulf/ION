@@ -6,7 +6,7 @@
 >##Statement Date: 4/15/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$71,150
+>>###$75,150
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
