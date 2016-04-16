@@ -6,7 +6,7 @@
 >##Statement Date: 4/15/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$70,250
+>>###$71,150
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -15,7 +15,7 @@
 >|4/12/13|$10,200|
 >|4/13/13|$2,700|
 >|4/14/13|$1,600|
->|4/15/13|$70,250|
+>|4/15/13|$75,150|
 
 ***
 
@@ -24,8 +24,7 @@
 | --------- | :-------- | -------: | 
 |-300|ION|Base Franchisee Upkeep|
 |-1000|Admin|Contractor Employment|
-|-35|Aegios Development Corp.|Molos Office Rent|
-|-15|ION|Defensive Munitions Supply Lease|
+|-50|Piranha Shipping Co.|Charkia Barracks Rent|
 
 ***
 ##*Transaction History*
@@ -40,3 +39,5 @@
 |4/13/13|DEPOSIT|+1000|MOLOS ORTHODOX|
 |4/14/13|WITHDRAWAL|-1000|PAULOS ILISONI
 |4/15/13|TRANSFER|+70000|SEARA SHIPPING CO.|
+|4/15/13|TRANSFER|-500|PIRANHA SHIPPING CO.|
+|4/15/13|TRANSFER|+5400|BADMIN ABU.s.|
