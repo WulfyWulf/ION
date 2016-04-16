@@ -98,7 +98,7 @@
 |$1000  |$20 |Vector 21 Rangefinder  |US Army Surplus|
 |$4000  |$50 |MX-2A TID              |ION|           
 |$3000	|$30 |AN/PVS-4 NVS	        	|ION|
-|$5000	|$50 |AN/PVS-7 NVG	         	|ION|
+|$3000	|$50 |AN/PVS-7 NVG	         	|ION|
 
 ***
 
