@@ -27,6 +27,7 @@
 |-300|ION|Base Franchisee Upkeep|
 |-1000|Admin|Contractor Employment|
 |-50|Piranha Shipping Co.|Charkia Barracks Rent|
+|-30|Anton Villiaro|Guard Salary|
 
 ***
 ##*Transaction History*
