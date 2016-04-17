@@ -6,7 +6,7 @@
 >###CONTRACT: REMOVAL OF THREAT
 >###CLIENT: AGOLA SOLAR
 >###RISK ASSESSMENT: HIGH
->###JOB OPEN: 4/13/13 - [NO END DATE SET]
+>###~~JOB OPEN: 4/13/13 - [NO END DATE SET]~~ *CONTRACT COMPLETE*
 >***
 >>###CONTRACT DESCRIPTION
 >>Representative of Agola Solar (CLIENT) has posted an offer (CONTRACT) for a private security contractor (CONTRACTOR) to assist with the removal of threats to their productivity (TARGET). CONTRACT has three OBJECTIVES outlined by the CLIENT:
