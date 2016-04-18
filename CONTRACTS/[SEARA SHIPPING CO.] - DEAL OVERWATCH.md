@@ -48,6 +48,8 @@
 >
 >If the deal's agreed upon conclusion is impossible, you should follow our representatives' instructions. They should brief you before the deal commences. DO NOT, repeat, do not act in such a way that would make the deal's cancellation our fault. Our friends doing the deal should be trustworthy, but in the unlikely event they attempt to take our assets by force, I will pay a bonus if you recover their end of the bargain anyway. 
 >
+>If you wish to accept, please let us know well in advance. No later than the 19th.
+>
 >Regarding the last job's difficult conclusion, we will get to the bottom of who is interfering with our business soon. For now, business itself must continue as normal.
 >
 >Petrescu 
