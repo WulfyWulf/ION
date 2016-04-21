@@ -9,8 +9,9 @@
 ####Helmets
 |Price | Checkout Cost | Item   | [Protection](http://www.safeguardarmor.com/support/body-armor-protection-levels/) | Supplier|
 |:----- | :-----:  | :-------- | :--------: | ---: |
-|$50	|$5   |ProTec ABS Helmet 	    |IIa 	|COTS|
-|$70	|$5   |TSh-4 Tanker Helmet 	    |IIa 	|Seara Shipping Co.|
+|$50	|$10   |ProTec ABS Helmet 	    |IIa 	|COTS|
+|$70	|$10   |TSh-4 Tanker Helmet 	    |IIa 	|Seara Shipping Co.|
+|$50	|$10   |SSh-68 Steel Helmet   |IIa 	|Seara Shipping Co.|
 |$100	|$20   |PASGT Kevlar Helmet	  |II	|US Army Surplus|
 |$100	|$20   |MICH Kevlar Helmet	  |II	|US Army Surplus|
 
