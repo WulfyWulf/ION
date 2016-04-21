@@ -136,9 +136,9 @@
 |$2000	|$40 |1PN34 NSPU 	          	|Seara Shipping Co.|
 |$3000	|$60 |AN/PVS-4 NVS	        	|ION|
 |||||
-|$2000  |$30  |Light Suppressor (Pistol)  |ION|
+|$2000  |$20  |Light Suppressor (Pistol)  |ION|
 |$3000  |$50  |Medium Suppressor (Light Rifle)  |ION|
-|$3500  |$70  |Heavy Suppressor (Heavy Rifle)  |ION|
+|$3500  |$60  |Heavy Suppressor (Heavy Rifle)  |ION|
 |||||
 |$500  |$20  |Bipod  |COTS|
 |$2000  |$10  |Flashlight  |COTS|
