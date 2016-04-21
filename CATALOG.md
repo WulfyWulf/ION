@@ -108,6 +108,7 @@
 :---- | :------: | :---- | ---: |
 |$50    |$20   |Chemlights             |COTS|
 |$400   |$50  |Hand Flares           |COTS|
+|$400   |$100   |RGD-5 Frag Grenades  |Seara Shipping Co.|
 |$450   |$150  |M67 Frag Grenades     |US Army Surplus|
 |$200   |$70  |Smoke Grenades          |US Army Surplus|
 |$600   |$100  |Stun Grenades          |ION|
