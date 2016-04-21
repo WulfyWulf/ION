@@ -27,7 +27,7 @@
 >>  - OBJECTIVE ONE completed, OBJECTIVE TWO NOT completed; CONTRACT terminated by CLIENT or CONTRACTOR.
 >>- **PARTIAL CONTRACT COMPLETION:** *$10,000*
 >>  - OBJECTIVE ONE NOT completed, OBJECTIVE TWO completed; CONTRACT terminated by CLIENT or CONTRACTOR.
->>- **CONTRACT COMPLETION:** *$20,000*
+>>- **CONTRACT COMPLETION:** *$30,000*
 >>  - OBJECTIVE ONE and TWO completed, OBJECTIVE THREE NOT completed; CONTRACT terminated by CLIENT or CONTRACTOR.
 <br><br>
 >>- **BONUS CONTRACT COMPLETION:** *+$20,000*
@@ -35,6 +35,22 @@
 >>- **ALTERNATE BONUS CONTRACT COMPLETION:** *+$10,000*
 >>  - OBJECTIVES ONE, TWO, and FOUR completed, OBJECTIVE THREE NOT completed.
 
+***
+
+>###CONTRACT ACCEPTANCE DETAILS
+> - The deal will take place on 4/24/13.
+>   - The meeting is due to take place in the ruins of Aktinarki, on the east coast.
+>   - The meeting will begin at 1700.
+>      - Expect to be at the location at 1600.
+>      - Our associates requested this time due to a deteriorating weather forecast later in the evening.
+> - We will provide two representatives that are part of the contract's protection.
+>   - Both representative's safety is requested to satisfy the objective for their protection.
+>   - We are willing to negotiate payment post-contract in the event only one representative is able to be safely returned.
+> - We will also provide four guards, which are not part of the contract's objectives.
+> - Our associates have said they will send no more than ten men.
+>   - Our associates suggested a third party PMC (your employment) to bring outside observers into the deal for extra accountability.
+> - Our associates specified no "footprint" limit on gear or weapons. No necessity for discrete presence.
+> - Representatives will brief you before 1700 on rules of engagement and their suggestions to ensure the deal goes smoothly.
 
 
 ***
@@ -53,4 +69,3 @@
 >Regarding the last job's difficult conclusion, we will get to the bottom of who is interfering with our business soon. For now, business itself must continue as normal.
 >
 >Petrescu 
-
