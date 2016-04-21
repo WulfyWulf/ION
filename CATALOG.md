@@ -62,7 +62,7 @@
 |$1000  |$20  |FNX-45     |FN|
 ||||
 |$600	  |$15  |MP5A5			|ION|
-|$1000   |$30  |MP5SD6     |ION|
+|$1000   |$25  |MP5SD6     |ION|
 |$500   |$10  |PP-19 Bizon  |Seara Shipping Co.|
 |$700	  |$15  |M1014			|ION|
 |$800   |$15  |Saiga 12K  |Seara Shipping Co.|
