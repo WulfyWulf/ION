@@ -80,7 +80,7 @@
 ||||
 |$200   |$20  |AKM        |Seara Shipping Co.|
 |$200   |$25  |AKS        |Seara Shipping Co.|
-|$2500   |$35/$55  |Sa.58V w/ kit|     |Seara Shipping Co.|
+|$2500   |$35/$55  |Sa.58V w/ kit     |Seara Shipping Co.|
 |$1000	|$30  |FN FAL			    |FN|
 |$900	  |$25  |FN FAL SBR	  	|FN|
 |$800 	|$35  |M14		      	|USMC Surplus|
