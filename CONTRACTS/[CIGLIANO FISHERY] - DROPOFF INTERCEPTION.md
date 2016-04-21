@@ -6,7 +6,7 @@
 >###CONTRACT: DROPOFF INTERCEPTION 
 >###CLIENT: CIGLIANO AEGEAN FISHERY
 >###RISK ASSESSMENT: LOW
->###JOB OPEN: 4/18/13 - 4/21/13
+>###JOB OPEN: ACCEPTED
 >***
 >>###CONTRACT DESCRIPTION
 >>A Sicilian player in the Mediterranean fishing industry (CLIENT) has posted an offer for a delivery interruption job (CONTRACT). The delivery to be intercepted (PACKAGE) is to be recovered and delivered instead to the CLIENT. CONTRACT has three OBJECTIVES outlined by the CLIENT:
@@ -26,6 +26,14 @@
 >>  - OBJECTIVE ONE and TWO completed, CONTRACT terminated by CLIENT or CONTRACTOR.
 >>- **CONTRACT COMPLETION:** *$20,000*
 >>  - OBJECTIVES ONE, TWO, and THREE completed.
+
+***
+
+>###CONTRACT ACCEPTANCE DETAILS
+> - The delivery will take place on the night of 4/22/13 until the morning to 4/23/13.
+>   - The delivery will be somewhere between Cap Zefyris and Cap Agrios on the north coast.
+>   - The dropoff time is between 2AM and 5AM.
+> - Bring the contents of the delivery to our bistro in Kalithea.
 
 ***
 
