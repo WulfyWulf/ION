@@ -3,10 +3,10 @@
 > ###From: ETS Bank AG, AMS (no reply)
 
 ----------
->##Statement Date: 4/17/13
+>##Statement Date: 4/18/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$133,925
+>>###$122,095
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -18,6 +18,7 @@
 >|4/15/13|$45,500|
 >|4/16/13|$43,500|
 >|4/17/13|$133,925|
+>|4/18/13|$122,095|
 
 ***
 
@@ -52,3 +53,5 @@
 |4/17/13|TRANSFER|+45000|AGOLA SOLAR|
 |4/17/13|DEPOSIT|+10000|ION|
 |4/17/13|TRANSFER|-1875|DAILY EXPENSES|
+|4/18/13|TRANSFER|-10450|ION|
+|4/18/13|TRANSFER|-1380|DAILY EXPENSES|
