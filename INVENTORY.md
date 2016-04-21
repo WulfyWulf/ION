@@ -42,7 +42,7 @@
 |||||
 |$800  |$250  |Demolition Block   |CHK|
 |||||
-|$3500  |$100  |M136 AT4 Launcher   |CHK|
+|$3500  |$300  |M136 AT4 Launcher   |CHK|
 
 ***
 
