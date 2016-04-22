@@ -6,7 +6,7 @@
 >##Statement Date: 4/22/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$146,000
+>>###$145,000
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -20,7 +20,7 @@
 >|4/17/13|$133,925|
 >|4/18/13|$122,095|
 >|4/21/13|$127,865|
->|4/22/13|$146,000|
+>|4/22/13|$145,000|
 
 ***
 
@@ -64,3 +64,4 @@
 |4/22/13|TRANSFER|-485|EXPENDITURE|
 |4/22/13|TRANSFER|+20000|CIGLIANO FISHERY|
 |4/22/13|TRANSFER|-1380|DAILY EXPENSES|
+|4/22/13|TRANSFER|-1000|JILLIAN'S AUTO REPAIR|
