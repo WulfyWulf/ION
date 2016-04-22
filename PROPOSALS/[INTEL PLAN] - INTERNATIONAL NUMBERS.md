@@ -4,7 +4,7 @@
 ***
 ###PROJECTED COST: $70,000
 ###PROJECTED TIME: 4 Days
-###STATUS: NOT FUNDED
+###STATUS: STARTED 4/23/13
 ***
 ##Intelligence Outline
 
