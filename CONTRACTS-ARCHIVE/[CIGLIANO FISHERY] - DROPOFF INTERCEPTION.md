@@ -6,7 +6,7 @@
 >###CONTRACT: DROPOFF INTERCEPTION 
 >###CLIENT: CIGLIANO AEGEAN FISHERY
 >###RISK ASSESSMENT: LOW
->###JOB OPEN: ACCEPTED
+>###JOB OPEN: CONTRACT COMPLETE
 >***
 >>###CONTRACT DESCRIPTION
 >>A Sicilian player in the Mediterranean fishing industry (CLIENT) has posted an offer for a delivery interruption job (CONTRACT). The delivery to be intercepted (PACKAGE) is to be recovered and delivered instead to the CLIENT. CONTRACT has three OBJECTIVES outlined by the CLIENT:
