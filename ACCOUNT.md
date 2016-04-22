@@ -3,10 +3,10 @@
 > ###From: ETS Bank AG, AMS (no reply)
 
 ----------
->##Statement Date: 4/21/13
+>##Statement Date: 4/22/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$127,865
+>>###$146,000
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -20,6 +20,7 @@
 >|4/17/13|$133,925|
 >|4/18/13|$122,095|
 >|4/21/13|$127,865|
+>|4/22/13|$146,000|
 
 ***
 
@@ -60,3 +61,6 @@
 |4/19/13|TRANSFER|-90|EXPENDITURE|
 |||||
 |4/21/13|TRANSFER|-4140|DAILY EXPENSES|
+|4/22/13|TRANSFER|-485|EXPENDITURE|
+|4/22/13|TRANSFER|+20000|CIGLIANO FISHERY|
+|4/22/13|TRANSFER|-1380|DAILY EXPENSES|
