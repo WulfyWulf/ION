@@ -5,6 +5,7 @@
 ###PROJECTED COST: $20,000
 ###PROJECTED TIME: 3 Days
 ###STATUS: COMPLETED
+###ACTUAL COST: $16,000
 
 ***
 
@@ -50,16 +51,19 @@
 >***
 >
 >###Sources and Costs
->- Piranha Defense
+>- Piranha Defense *- $3,000*
 >  - The brits from Pyrgos we worked with on the boat intercept.
 >  - Have been around here enough to know some stuff or worked with them before.
-> - Agola Solar
+> - Agola Solar *- $0, no leads*
 >   - A shot in the dark, but might have some business with them if the phone numbers incident is more than a coincidence.
 >   - They owe us a favor or two, so it shouldn't be much of a problem to trade some information with them if they do know anything.
 >   - If anything, we can at least introduce the two to each other. Might open up some business opportunities with us in the middle.
->- Romanian Armed Forces
+>- Romanian Armed Forces *- $5,000, good sources, pointed to some Albanian contacts*
 >  - Probably working with this group in some form or another, either mutual profit or trafficking.
 >  - If they are, could be a decent source of somewhat reliable information on their history.
->- Mediterranean Shipping Authority
+>- *Sisseri Family Syndicate - $8,000, bulk of the target's information came from here*
+>  - Albanians, lots of arms and human trafficking. Not nice people, but had a lot of information to share.
+>  - Worked with the client and have a shaky alliance, though expressed some concerns about the client's rate of growth.
+>- Mediterranean Shipping Authority *- $0, just an inquiry*
 >  - Spanish based, keeps tabs on shipping traffic.
 >  - Very basic information, and they aren't the type to take bribes, but should be useful for cross examining.
