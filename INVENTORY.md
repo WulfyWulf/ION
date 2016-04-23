@@ -76,7 +76,7 @@
 |Sell Price | Checkout Cost  | Model   | Weapons 	 | Location |
 | :--------- | :---------: | :------- | :-----: | -------: |
 |$1500  |$0     |Offroad	|   	|CHK|
-|HOT    |$0     |SUV		  |     |STASH|
+|$5000  |$0     |SUV		  |     |STASH|
 |$3000  |$0     |Ural     |     |CHK|
 |$6000  |$0     |Octavia      |     |CHK|
 |$4000  |$200   |Technical    |PKT  |CHK|
