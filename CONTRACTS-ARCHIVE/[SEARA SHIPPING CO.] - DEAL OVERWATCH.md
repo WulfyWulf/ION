@@ -6,7 +6,7 @@
 >###CONTRACT: DEAL OVERWATCH
 >###CLIENT: SEARA SHIPPING CO.
 >###RISK ASSESSMENT: HIGH
->###JOB OPEN: **ACCEPTED**
+>###JOB OPEN: CONTRACT COMPLETE
 >***
 >>###CONTRACT DESCRIPTION
 >>Seara Shipping Co. (CLIENT) has a follow-up offer (CONTRACT) from our last contract with them. The CONTRACT is to provide additional security for a deal (TARGET) between the CLIENT's representatives and an unnamed third party (ASSOCIATE). CONTRACT has four OBJECTIVES outlined by the CLIENT:
