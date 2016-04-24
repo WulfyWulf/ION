@@ -3,10 +3,10 @@
 > ###From: ETS Bank AG, AMS (no reply)
 
 ----------
->##Statement Date: 4/22/13
+>##Statement Date: 4/24/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$129,000
+>>###$168,360
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -21,6 +21,8 @@
 >|4/18/13|$122,095|
 >|4/21/13|$127,865|
 >|4/22/13|$129,000|
+>|4/23/13|$116,865|
+>|4/24/13|$168,360|
 
 ***
 
@@ -31,6 +33,7 @@
 |-1000|Admin|Contractor Employment|
 |-50|Piranha Shipping Co.|Charkia Barracks Rent|
 |-30|Anton Villiaro|Guard Salary|
+|-60|Kosta Breslac|Guard Salary|
 
 ***
 ##*Transaction History*
@@ -66,3 +69,11 @@
 |4/22/13|TRANSFER|-1380|DAILY EXPENSES|
 |4/22/13|TRANSFER|-1000|JILLIAN'S AUTO REPAIR|
 |4/22/13|TRANSFER|-16000|ION INTEL REPORT|
+|4/23/13|TRANSFER|-10000|ION INTEL REPORT|
+|4/23/13|WITHDRAWAL|-650|ION|
+|4/23/13|TRANSFER|-105|EXPENDITURE|
+|4/23/13|TRANSFER|-1380|DAILY EXPENSES|
+|4/24/13|DEPOSIT|+4000|CHARKIA ORTHODOX|
+|4/24/13|TRANSFER|+50000|SEARA SHIPPING CO.|
+|4/24/13|TRANSFER|-1125|EXPENDITURE|
+|4/24/13|TRANSFER|-1380|DAILY EXPENSES|
