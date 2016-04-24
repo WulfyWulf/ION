@@ -89,7 +89,7 @@
 |Sell Price | Checkout Cost  | Model   | Weapons 	 | Location |
 | :--------- | :---------: | :------- | :-----: | -------: |
 |$5000  |$0     |SUV		  |     |STASH|
-|$5000  |$0     |SUV		  |     |CHK|
+|$35000  |$200     |Armored SUV		  |     |CHK|
 |$5000  |$0     |KAMAZ     |     |CHK|
 |$6000  |$0     |Octavia      |     |CHK|
 |$4000  |$200   |Technical    |PKT  |CHK|
