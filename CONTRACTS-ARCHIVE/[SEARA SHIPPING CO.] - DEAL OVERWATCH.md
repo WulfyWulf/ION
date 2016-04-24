@@ -25,10 +25,10 @@
 >>  - OBJECTIVES ONE and TWO NOT completed: CONTRACT terminated by CLIENT or CONTRACTOR.
 >>- **PARTIAL CONTRACT FAILURE:** *$5,000*
 >>  - OBJECTIVE ONE completed, OBJECTIVE TWO NOT completed; CONTRACT terminated by CLIENT or CONTRACTOR.
->>- **PARTIAL CONTRACT COMPLETION:** *$10,000*
->>  - OBJECTIVE ONE NOT completed, OBJECTIVE TWO completed; CONTRACT terminated by CLIENT or CONTRACTOR.
+>>- ~~**PARTIAL CONTRACT COMPLETION:** *$10,000*~~
+>>  - ~~OBJECTIVE ONE NOT completed, OBJECTIVE TWO completed; CONTRACT terminated by CLIENT or CONTRACTOR.~~
 >>- **CONTRACT COMPLETION:** ~~*$30,000*~~ *$50,000*
->>  - OBJECTIVE ONE and TWO completed, OBJECTIVE THREE NOT completed; CONTRACT terminated by CLIENT or CONTRACTOR.
+>>  - OBJECTIVE ~~ONE and~~ TWO completed, OBJECTIVE THREE NOT completed; CONTRACT terminated by CLIENT or CONTRACTOR.
 <br><br>
 >>- **BONUS CONTRACT COMPLETION:** *+$20,000*
 >>  - OBJECTIVES ONE, TWO, and THREE completed.
