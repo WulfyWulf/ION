@@ -165,7 +165,6 @@
 |$40000   |$1000  |HMMWV w/ CROWS   |M2           |US Army Surplus|
 |$45000   |$1200  |HMMWV w/ CROWS   |Mk19         |US Army Surplus|
 |$45000   |$1000  |HMMWV SOV        |M240,Mk19    |US Army Surplus|
-|$40000   |$200  |Armored SUV      |            |ION|
 |$50000   |$800  |Armored SUV      |M134        |ION|
 |$65000	  |$700  |Land Rover SOV   |M240,M2		  |ION|
 |$60000	  |$800  |Land Rover SOV   |M240,Mk19		|ION|
