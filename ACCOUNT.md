@@ -3,10 +3,10 @@
 > ###From: ETS Bank AG, AMS (no reply)
 
 ----------
->##Statement Date: 4/24/13
+>##Statement Date: 4/25/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$168,360
+>>###$124,360
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -23,6 +23,7 @@
 >|4/22/13|$129,000|
 >|4/23/13|$116,865|
 >|4/24/13|$168,360|
+>|4/25/13|$124,360|
 
 ***
 
@@ -77,3 +78,4 @@
 |4/24/13|TRANSFER|+50000|SEARA SHIPPING CO.|
 |4/24/13|TRANSFER|-1125|EXPENDITURE|
 |4/24/13|TRANSFER|-1380|DAILY EXPENSES|
+|4/25/13|TRANSFER|-44000|ION INTEL REPORT|
