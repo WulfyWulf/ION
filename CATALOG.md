@@ -185,3 +185,20 @@
 |$1500    |$0  |PBX           |             |Seara Shipping Co.|
 |$4000    |$0  |Zodiac           |             |COTS|
 |$20000   |$700  |RHIB             |M2           |ION|
+
+
+###SERVICES
+|Setup Price | Standby Cost    | Item   | Threat  | Supplier
+:---- | :------: | :------ | :------: |---:
+|$2000    |$400  |Illumination Parachute Flares [5mins]     | I                |Seara Shipping Co.|
+|$2500    |$500  |Smoke Screen [5mins]     | I                |Seara Shipping Co.|
+|$1000    |$1000  |Mortar Bombardment [Per round]   | III              |Seara Shipping Co.|
+|||||
+|$500    |$100  |Taxi [Unarmed]  | I            |Seara Shipping Co.|
+|$1000    |$300  |Taxi [Armed]  | II            |Seara Shipping Co.|
+|$1000    |$500  |Taxi [Armored]  | II            |Seara Shipping Co.|
+|$1000    |$700  |Heli Taxi [Unarmed] | I            |Seara Shipping Co.|
+|$1000    |$1000  |Heli Taxi [Armed] | II            |Seara Shipping Co.|
+|||||
+|$1000    |$1000  |Item Delivery [Ground] | I            |Seara Shipping Co.|
+|$2000    |$2000  |Item Delivery [Air] | II            |Seara Shipping Co.|
