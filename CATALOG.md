@@ -192,7 +192,7 @@
 :---- | :------: | :------ | :------: |---:
 |$2000    |$400  |Illumination Parachute Flares [5mins]     | I                |Seara Shipping Co.|
 |$2500    |$500  |Smoke Screen [5mins]     | I                |Seara Shipping Co.|
-|$1000    |$1000  |Mortar Bombardment [Per round]   | III              |Seara Shipping Co.|
+|$1000[p]    |$1000  |Mortar Bombardment [Per round]   | III              |Seara Shipping Co.|
 |||||
 |$500    |$100  |Taxi [Unarmed]  | I            |Seara Shipping Co.|
 |$1000    |$300  |Taxi [Armed]  | II            |Seara Shipping Co.|
@@ -200,5 +200,5 @@
 |$1000    |$700  |Heli Taxi [Unarmed] | I            |Seara Shipping Co.|
 |$1000    |$1000  |Heli Taxi [Armed] | II            |Seara Shipping Co.|
 |||||
-|$1000    |$1000  |Item Delivery [Ground] | I            |Seara Shipping Co.|
-|$2000    |$2000  |Item Delivery [Air] | II            |Seara Shipping Co.|
+|$1000    |$0  |Item Delivery [Ground] | I            |Seara Shipping Co.|
+|$3000    |$0  |Item Delivery [Air] | II            |Seara Shipping Co.|
