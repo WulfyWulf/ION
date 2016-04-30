@@ -74,22 +74,26 @@
 |||||
 |$400     |$20  |Bipod    |1  |CHK|
 |$2000    |$50  |ACOG     |1  |CHK|
+|$2500	  |$60 |AN/PVS-4 NVS	 |1       	|CHK|
 |$1500    |$30  |PGO-7V    |1  |CHK|
 |||||
-|$2000   |$100  |AN/PVS-7      |1	|CHK|
+|$2000   |$100  |AN/PVS-7      |4	|CHK|
 |||||
 |$2000    |$50  |Medium Suppressor (Light Rifle)  |8  |CHK|
+|$3000    |$60  |Heavy Suppressor (Heavy Rifle)  |2  |CHK|
 |||||
 |$500   |$40  |SF-10 Respirator     |1	|CHK|
 |$1000    |$80  |Leupold Mk4  |1  |CHK|
 
 ***
 
-###CARS
+###VEHICLES
 |Sell Price | Checkout Cost  | Model   | Weapons 	 | Location |
 | :--------- | :---------: | :------- | :-----: | -------: |
 |$5000  |$0     |SUV		  |     |STASH|
-|$5000  |$0     |SUV		  |     |CHK|
+|$2000  |$0     |Golf		  |     |CHK|
 |$5000  |$0     |KAMAZ     |     |CHK|
 |$6000  |$0     |Octavia      |     |CHK|
 |$4000  |$200   |Technical    |PKT  |CHK|
+|||||
+|$3000    |$200  |AR-2 Darter|    |CHK|
