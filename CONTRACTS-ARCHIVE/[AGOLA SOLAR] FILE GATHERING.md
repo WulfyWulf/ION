@@ -6,7 +6,7 @@
 >###CONTRACT: FILE GATHERING
 >###CLIENT: AGOLA SOLAR S.A.
 >###RISK ASSESSMENT: MEDIUM-HIGH
->###JOB OPEN: *ACCEPTED*
+>###JOB OPEN: *COMPLETED*
 >***
 >>###CONTRACT DESCRIPTION
 >>Our representative at Agola Solar (CLIENT) has another contract (CONTRACT) to follow up on our information shared with them regarding Sealine's interference with their operations. The CLIENT has expressed a need for more information from their opposition and is willing to compensate us for any action undertaken to procure files, documents, phone records, or any other confidential details (TARGET) from Sealine's Kavala office (POINT ONE).  CONTRACT has three OBJECTIVES outlined by the CLIENT:
@@ -23,10 +23,10 @@
 
 >>- **CONTRACT FAILURE:** *$0*
 >>  - OBJECTIVES TWO or THREE NOT completed: CONTRACT terminated by CLIENT or CONTRACTOR.
->>- **CONTRACT COMPLETION:** *$40,000*
+>>- **CONTRACT COMPLETION:** *$40,000* ✓
 >>  - OBJECTIVE ONE completed, OBJECTIVE TWO completed, OBJECTIVE THREE completed.
 <br><br>
->>- **BONUS CONTRACT COMPLETION:** *+$40,000*
+>>- **BONUS CONTRACT COMPLETION:** *+$40,000* ✓
 >>  - OBJECTIVES ONE, TWO, TWO(A), and THREE completed, OBJECTIVE THREE completed.
 
 ***
