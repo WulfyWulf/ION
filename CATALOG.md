@@ -28,23 +28,23 @@
 ####Armored Vests
 |Price | Checkout Cost  | Item | Magazines | [Protection](http://www.safeguardarmor.com/support/body-armor-protection-levels/) | Supplier |
 | :---- | :------: | :------- | :-------: | :--------: | ---: |
-|$300	  |$30  |IOTV Vest		               	|5p	|II	  |US Army Surplus|
-|$100	  |$40  |6B3 Flak Vest		               	|7p	|II	  |Seara Shipping Co.|
-|$400	  |$50  |V-1 Basic Vest		          	|6p	|IIIa	|COTS|
-|$450 	|$70  |V-1 Assault Vest	         	|9p	|IIIa	|COTS|
-|$200   |$20   |First On VIP Carrier       |2p |III   |COTS|
-|$800	  |$50  |PMC Basic Vest		        	|4p	|III	|ION|
-|$900  |$80  |PMC Assault Vest	        	|7p	|III	|ION|
-|$500	  |$70  |RRV Plate Carrier        	|5p	|III  |COTS|
-|$700	  |$100  |RRV Assault Plate  Carrier	|8p	|III 	|COTS|
-|$2000  |$200 |PMC Heavy Vest L2          |13p|IV   |ION|
+|$300	  |$50  |IOTV Vest		               	|5p	|II	  |US Army Surplus|
+|$100	  |$60  |6B3 Flak Vest		               	|7p	|II	  |Seara Shipping Co.|
+|$400	  |$80  |V-1 Basic Vest		          	|6p	|IIIa	|COTS|
+|$450 	|$150  |V-1 Assault Vest	         	|9p	|IIIa	|COTS|
+|$200   |$30   |First On VIP Carrier       |2p |III   |COTS|
+|$800	  |$80  |PMC Basic Vest		        	|4p	|III	|ION|
+|$900  |$150  |PMC Assault Vest	        	|7p	|III	|ION|
+|$500	  |$140  |RRV Plate Carrier        	|5p	|III  |COTS|
+|$700	  |$180  |RRV Assault Plate  Carrier	|8p	|III 	|COTS|
+|$2000  |$250 |PMC Heavy Vest L2          |13p|IV   |ION|
 
 ####Backpacks
 |Price | Checkout Cost    | Item     | Magazines  | Supplier
 | :---- | :------: | :------- | :--------: | ---: |
-|$100	|$20  |Combat Buttpack     	|4p	|COTS|
-|$400	|$50  |Assault Backpack	    |8p	|COTS|
-|$800 |$100  |Tactical Backpack    |14p|COTS|
+|$100	|$30  |Combat Buttpack     	|4p	|COTS|
+|$400	|$70  |Assault Backpack	    |8p	|COTS|
+|$800 |$120  |Tactical Backpack    |14p|COTS|
 
 ***
 
@@ -69,38 +69,38 @@
 |$3000  |$60  |AA-12      |ION|
 ||||
 |$300   |$30  |AKS-74U    |Seara Shipping Co.|
-|$400   |$35  |AK-74      |Seara Shipping Co.|
-|$400   |$35  |AKS-74     |Seara Shipping Co.|  
-|$2500 	|$50  |M4A1			|Colt|
-|$2000  |$50  |M4A3     |ION|
-|$1000	|$40  |M16A2			|US Army Surplus|
-|$2500	|$50  |M16A4			|Colt|
-|$3000  |$55  |FN F2000       |FN|
-|$4800  |$70  |SCAR-L/kit |FN|
-|$5000  |$75  |SCAR-H/kit |FN|
+|$400   |$45  |AK-74      |Seara Shipping Co.|
+|$400   |$45  |AKS-74     |Seara Shipping Co.|  
+|$2500 	|$60  |M4A1			|Colt|
+|$2000  |$60  |M4A3     |ION|
+|$1000	|$50  |M16A2			|US Army Surplus|
+|$2500	|$60  |M16A4			|Colt|
+|$3000  |$75  |FN F2000       |FN|
+|$4800  |$80  |SCAR-L/kit |FN|
+|$5000  |$100  |SCAR-H/kit |FN|
 ||||
-|$200   |$20  |AKM        |Seara Shipping Co.|
-|$200   |$25  |AKS        |Seara Shipping Co.|
-|$2500   |$35/$55  |Sa.58V w/ kit     |Seara Shipping Co.|
+|$200   |$40  |AKM        |Seara Shipping Co.|
+|$200   |$45  |AKS        |Seara Shipping Co.|
+|$2500   |$45/$65  |Sa.58V w/ kit     |Seara Shipping Co.|
 |$1000	|$30  |FN FAL			    |FN|
 |$900	  |$25  |FN FAL SBR	  	|FN|
 |$800 	|$35  |M14		      	|USMC Surplus|
 |$2500  |$60  |Mk14 EBR       |ION|
 ||||
-|$2000  |$60  |UK-59          |Seara Shipping Co.|
+|$2000  |$50  |UK-59          |Seara Shipping Co.|
 |$5000  |$100  |PKM           |Seara Shipping Co.|
-|$4000  |$150  |M60E4          |US Army Surplus|
-|$6000	|$150  |FN Minimi	  	|FN|
+|$4000  |$140  |M60E4          |US Army Surplus|
+|$6000	|$180  |FN Minimi	  	|FN|
 ||||
-|$3500	|$40  |M21 DMR		|USMC Surplus|
-|$4500  |$70  |SR-25      |US Army Surplus|
-|$3000	|$20  |M40A3			|ION|
+|$3500	|$50  |M21 DMR		|USMC Surplus|
+|$4500  |$80  |SR-25      |US Army Surplus|
+|$3000	|$10  |M40A3			|ION|
 |$7000  |$140 |M82A1      |ION|
 ||||
 |$2000  |$60  |GP-25              |Seara Shipping Co.|
 |$3000  |$70 |M203               |Colt|
 |$4000  |$100 |Mk13 EGLM          |FN|
-|$6000  |$120 |M32 MGL            |ION|
+|$6000  |$200 |M32 MGL            |ION|
 
 ***
 
@@ -120,7 +120,7 @@
 |$2500  |$150  |VS-50 AP Mine        |ION|
 |$3000  |$250  |M15 AT Mine          |ION|
 |||||
-|$4000	|$300 |M136 AT4 Launcher	|ION|
+|$4000	|$500 |M136 AT4 Launcher	|ION|
 
 ***
 
@@ -129,7 +129,7 @@
 :---- | :------: | :---- | ---: |
 |$1000  |$80 |Ballistic Shield       |ION|
 |||||
-|$1200	|$80 |Leupold Mk4 LR Scope	  |ION|
+|$1200	|$100 |Leupold Mk4 LR Scope	  |ION|
 |$1000	|$30 |PSO-1	              	|Seara Shipping Co.|
 |$2500	|$50 |Trijicon ACOG	      	|ION|
 |$1500	|$10 |EoTech Holo		        |ION|
@@ -139,7 +139,7 @@
 |||||
 |$2000  |$20  |Light Suppressor (Pistol)  |ION|
 |$3000  |$50  |Medium Suppressor (Light Rifle)  |ION|
-|$3500  |$60  |Heavy Suppressor (Heavy Rifle)  |ION|
+|$3500  |$80  |Heavy Suppressor (Heavy Rifle)  |ION|
 |||||
 |$500  |$20  |Bipod  |COTS|
 |$2000  |$10  |Flashlight  |COTS|
@@ -147,7 +147,7 @@
 |||||
 |$1000  |$50 |Vector 21 Rangefinder  |US Army Surplus|
 |$4000  |$100 |MX-2A TID              |ION|           
-|$3000	|$100 |AN/PVS-7 NVG	         	|ION|
+|$3000	|$150 |AN/PVS-7 NVG	         	|ION|
 
 ***
 
@@ -192,7 +192,7 @@
 :---- | :------: | :------ | :------: |---:
 |$2000    |$400  |Illumination Parachute Flares [5mins]     | I                |Seara Shipping Co.|
 |$2500    |$500  |Smoke Screen [5mins]     | I                |Seara Shipping Co.|
-|$1000[p]    |$1000  |Mortar Bombardment [Per round]   | III              |Seara Shipping Co.|
+|$2000[p]    |$1000  |Mortar Bombardment [Per round]   | III              |Seara Shipping Co.|
 |||||
 |$500    |$100  |Taxi [Unarmed]  | I            |Seara Shipping Co.|
 |$1000    |$300  |Taxi [Armed]  | II            |Seara Shipping Co.|
