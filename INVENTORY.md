@@ -10,27 +10,27 @@
 |$50    |$5  |M1911		|5	|CHK|
 |$100   |$10  |M9		    |3	|CHK|
 |$200   |$10  |MP-433 Grach	    |2	|CHK|
-|$500   |$15  |Taurus 455 |1  |CHK|
+|$500   |$10  |Taurus 455 |1  |CHK|
 |||||
 |$200   |$15  |M1014		|2	|CHK|
 |$200   |$15  |MP5A5 		|4	|CHK|
 |$700   |$30  |MP5SD6 	|2	|CHK|
 |||||
-|$200   |$35  |AKS74		|4	|CHK|
+|$200   |$45  |AKS74		|4	|CHK|
 |$200   |$30  |AKS74U		|8	|CHK|
-|$2100   |$50  |M4A1		|1	|CHK|
-|$1500   |$50  |M4A3 		|3	|CHK|
-|$2500   |$45  |L85A2		|1	|CHK|
+|$2100   |$60  |M4A1		|1	|CHK|
+|$1500   |$60  |M4A3 		|3	|CHK|
+|$2500   |$55  |L85A2		|1	|CHK|
 |||||
-|$100   |$25  |AKS		|4	|CHK|
-|$100   |$20  |AKM		|4	|CHK|
+|$100   |$45  |AKS		|4	|CHK|
+|$100   |$40  |AKM		|4	|CHK|
 |$600   |$35  |M14		|3	|CHK|
 |||||
-|$3000  |$40  |M21 		|1	|CHK|
+|$3000  |$50  |M21 		|1	|CHK|
 |||||
 |$2500  |$70  |M203   |1  |CHK|
-|$4500  |$100  |RG-6G30   |1  |CHK|
-|$3000  |$150 |RPG-7V     |1  |CHK|
+|$4500  |$150  |RG-6G30   |1  |CHK|
+|$3000  |$350 |RPG-7V     |1  |CHK|
 
 ***
 
@@ -46,7 +46,7 @@
 |||||
 |$800  |$250  |Demolition Block   |CHK|
 |||||
-|$3500  |$300  |M136 AT4 Launcher   |CHK|
+|$3500  |$500  |M136 AT4 Launcher   |CHK|
 
 ***
 
@@ -54,14 +54,14 @@
 |Sell Price | Checkout Cost | Item	| Number | Location|
 | :--------- | :-------: | :-------- | :----: | -------: |
 |$50    |$0  |Light H-Suspender	|4	|CHK|
-|$200   |$30  |IOTV Light Vest	|8	|CHK|
-|$300   |$50  |V-1 Assault Vest	|4	|CHK|
-|$500   |$50  |PMC Basic Vest	  |1	|CHK|
+|$200   |$50  |IOTV Light Vest	|8	|CHK|
+|$300   |$80  |V-1 Assault Vest	|4	|CHK|
+|$500   |$80  |PMC Basic Vest	  |1	|CHK|
 |$100   |$20  |First On VIP Carrier 	|4	|CHK|
 |||||
-|$50    |$20  |Combat Buttpack	|7	|CHK|
-|$200   |$50  |Assault Backpack		|4	|CHK|
-|$30   |$25  |RPG Carrier Pack		|1	|CHK|
+|$50    |$30  |Combat Buttpack	|7	|CHK|
+|$200   |$70  |Assault Backpack		|4	|CHK|
+|$30   |$35  |RPG Carrier Pack		|1	|CHK|
 |||||
 |$50   |$20  |PASGT Helmet		|8	|CHK|
 |$60   |$15  |ZSh-1 Helmet		|1	|CHK|
@@ -77,13 +77,13 @@
 |$2500	  |$60 |AN/PVS-4 NVS	 |1       	|CHK|
 |$1500    |$30  |PGO-7V    |1  |CHK|
 |||||
-|$2000   |$100  |AN/PVS-7      |4	|CHK|
+|$2000   |$150  |AN/PVS-7      |4	|CHK|
 |||||
 |$2000    |$50  |Medium Suppressor (Light Rifle)  |8  |CHK|
-|$3000    |$60  |Heavy Suppressor (Heavy Rifle)  |2  |CHK|
+|$3000    |$80  |Heavy Suppressor (Heavy Rifle)  |2  |CHK|
 |||||
 |$500   |$40  |SF-10 Respirator     |1	|CHK|
-|$1000    |$80  |Leupold Mk4  |1  |CHK|
+|$1000    |$100  |Leupold Mk4  |1  |CHK|
 
 ***
 
