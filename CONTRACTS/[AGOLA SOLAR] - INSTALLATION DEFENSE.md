@@ -6,7 +6,7 @@
 >###CONTRACT: INSTALLATION DEFENSE
 >###CLIENT: AGOLA SOLAR S.A.
 >###RISK ASSESSMENT: MEDIUM
->###JOB OPEN: 4/27/13 - 4/29/13
+>###JOB OPEN: *ACCEPTED*
 >***
 >>###CONTRACT DESCRIPTION
 >>Our contact at Agola Solar (CLIENT) has requested an urgent follow-up operation (CONTRACT) to the last operation conducted in Kavala in their service. CONTRACT is the defense of a key point (TARGET) belonging to CLIENT outlined for attack by intel recovered in the last operation for the CLIENT. TARGET is the Paros solar array installation consisting of two solar towers (T1) and their respective reflector arrays (T2). CONTRACT has three OBJECTIVES outlined by the CLIENT:
