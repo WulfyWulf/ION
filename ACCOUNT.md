@@ -6,7 +6,7 @@
 >##Statement Date: 4/26/13
 >***
 >>###**ACCOUNT BALANCE**
->>###$177,705
+>>###$186,295
 >###Balance History
 >|Date 	| Amount |
 >| ----- | :----: |
@@ -25,6 +25,7 @@
 >|4/24/13|$168,360|
 >|4/25/13|$103,955|
 >|4/26/13|$177,705|
+>|4/27/13|$186,295|
 
 ***
 
@@ -87,6 +88,8 @@
 |4/26/13|TRANSFER|-1870|EXPENDITURE|
 |4/26/13|TRANSFER|-1380|DAILY EXPENSES|
 |4/26/13|TRANSFER|+80000|AGOLA SOLAR|
-
+|4/27/13|TRANSFER|+10000|ALTIS CATHOLIC|
+|4/27/13|TRANSFER|-30|EXPENDITURE|
+|4/27/13|TRANSFER|-1380|DAILY EXPENSES|
 
 
