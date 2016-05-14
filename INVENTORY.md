@@ -25,6 +25,7 @@
 |$100   |$45  |AKS		|4	|CHK|
 |$100   |$40  |AKM		|4	|CHK|
 |$600   |$35  |M14		|3	|CHK|
+|who care i change this later   |$25  |FAL SBR		|2	|CHK|
 |||||
 |$3000  |$50  |M21 		|1	|CHK|
 |||||
