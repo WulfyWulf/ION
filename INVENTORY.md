@@ -4,7 +4,7 @@
 
 ----------
 ###FIREARMS
-|Checkout Cost | Item    	 | Number | Location |
+|Checkout Cost | Item    	 |
 | :--------- | :---------: | :------- | :----: | -------: |
 |$0  |Makarov PM	|
 |$5  |M1911		|
@@ -36,7 +36,7 @@
 ***
 
 ###ORDNANCE
-|Team Checkout Cost | Item	| Location|
+|Team Checkout Cost | Item	|
 | :--------- | :-------: | :-------- | -------: |
 |$20  |Chemlights	    |CHK|
 |$50 |Flares         |CHK|
@@ -52,7 +52,7 @@
 ***
 
 ###GEAR
-|Checkout Cost | Item	| Number | Location|
+|Checkout Cost | Item	|
 | :--------- | :-------: | :-------- | :----: | -------: |
 |$0  |Light H-Suspender	|
 |$50  |IOTV Light Vest	|
@@ -70,7 +70,7 @@
 ***
 
 ###EQUIPMENT
-|Checkout Cost | Item	| Number | Location|
+|Checkout Cost | Item	|
 | :--------- | :-------: | :-------- | :----: | -------: |
 |||||
 |$20  |Bipod    |
