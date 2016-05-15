@@ -34,4 +34,4 @@
 ###VEHICLES
 |Sell Price | Checkout Cost  | Model   | Weapons 	 | Location |
 | :--------- | :---------: | :------- | :-----: | -------: |
-|$1000  |$0     |UAZ-469		  |     |Waiting at the Airport...|
+|$1000  |$0     |Land Rover		  |     |Waiting at the Airport...|
