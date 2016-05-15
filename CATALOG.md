@@ -77,7 +77,7 @@
 |$700   |$50  |AKS        |Seara Shipping Co.|
 |$1500   |$40/$60  |Sa.58V w/ kit     |Seara Shipping Co.|
 |$3000 	|$70  |M4A1			|Colt|
-|$1500	|$50  |M16A2			|US Army Surplus|
+|$800	  |$40  |M16A2			|US Army Surplus|
 |$3500	|$60  |M16A4			|Colt|
 |$4000  |$75  |FN F2000       |FN|
 |$5000  |$80  |SCAR-L/kit |FN|
@@ -95,7 +95,7 @@
 ||||
 |$1500	|$60  |M21 DMR		|USMC Surplus|
 |$4500  |$100  |SR-25SD      |US Army Surplus|
-|$2000	|$10  |M40A3			|ION|
+|$500	  |$10  |M40A3			|ION|
 |$6000  |$120 |M82A1      |ION|
 ||||
 |$2000  |$60  |GP-25              |Seara Shipping Co.|
@@ -130,7 +130,7 @@
 :---- | :------: | :---- | ---: |
 |$1000  |$80 |Ballistic Shield       |ION|
 |||||
-|$1200	|$100 |Leupold Mk4 LR Scope	  |ION|
+|$1000	|$100 |Leupold Mk4 LR Scope	  |ION|
 |$1000	|$40 |PSO-1	              	|Seara Shipping Co.|
 |$3500	|$50 |Trijicon ACOG	      	|ION|
 |$3000	|$0 |EoTech Holo		        |ION|
