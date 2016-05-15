@@ -74,22 +74,22 @@
 ###VEHICLES
 |Price | Checkout Cost      | Item   | Weapons  | Supplier
 :---- | :------: | :------ | :------: |---:
-|$200    |$0     |Motorbike            |             |Local Commercial|
-|$300    |$0     |Quadbike            |             |Local Commercial|
-|$400    |$0     |Sedan             |             |Local Commercial|
-|$500    |$0     |Hatchback             |             |Local Commercial|
-|$700    |$0     |Pickup Truck             |             |Local Commercial|
-|$2000    |$0     |Offroad Truck             |             |Local Commercial|
-|$1500    |$0     |Box Truck             |             |Local Commercial|
-|$2000    |$0     |Flatbed Truck             |             |Local Commercial|
+|$200    |$10     |Motorbike            |             |Local Commercial|
+|$300    |$20     |Quadbike            |             |Local Commercial|
+|$300    |$30     |Sedan             |             |Local Commercial|
+|$600    |$10     |Hatchback             |             |Local Commercial|
+|$700    |$10     |Pickup Truck             |             |Local Commercial|
+|$2000    |$20     |Offroad Truck             |             |Local Commercial|
+|$1500    |$20     |Box Truck             |             |Local Commercial|
+|$2000    |$30     |Flatbed Truck             |             |Local Commercial|
 |||||
-|$3000	  |$0     |Land Rover       |		          |Local Commercial|
+|$3000	  |$20     |Land Rover       |		          |Local Commercial|
 |||||
 |$5000  |$100  |An-2                |            |Local Commercial|
 |||||
-|$500    |$0  |PBX                  |             |Local Commercial|
-|$2000    |$0  |Zodiac              |             |Local Commercial|
-|$2000   |$0  |Fishing Boat       |           |Local Commercial|
+|$500    |$20  |PBX                  |             |Local Commercial|
+|$2000    |$20  |Zodiac              |             |Local Commercial|
+|$2000   |$40  |Fishing Boat       |           |Local Commercial|
 
 
 ###SERVICES
