@@ -1,6 +1,5 @@
 > ##MEMO:
-> ###To: Charkia Office
-> ###From: Kavala Office
+> ###TO: ALL FIELD PERSONNEL
 
 ----------
 
