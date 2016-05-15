@@ -135,8 +135,8 @@
 |$3500	|$50 |Trijicon ACOG	      	|ION|
 |$3000	|$0 |EoTech Holo		        |ION|
 |$2000	|$20 |M68 CCO	            	|US Army Surplus|
-|$2000	|$20 |1PN34 NSPU 	          	|Seara Shipping Co.|
-|$2000	|$60 |AN/PVS-4 NVS	        	|ION|
+|$2000	|$60 |1PN34 NSPU 	          	|Seara Shipping Co.|
+|$2000	|$80 |AN/PVS-4 NVS	        	|ION|
 |||||
 |$1000  |$20  |Light Suppressor (Pistol)  |ION|
 |$2000  |$50  |Medium Suppressor (Light Rifle)  |ION|
@@ -155,36 +155,43 @@
 ###VEHICLES
 |Price | Checkout Cost      | Item   | Weapons  | Supplier
 :---- | :------: | :------ | :------: |---:
-|$6000    |$0     |UAZ             |             |Seara Shipping Co.|
-|$8000    |$0     |HMMWV             |             |US Army Surplus|
-|$15000    |$150     |UAZ Ambulance             |             |Seara Shipping Co.|
-|$15000   |$200  |HMMWV Ambulance  |             |US Army Surplus|
-|$15000   |$300  |HMMWV            |M240         |US Army Surplus|
-|$20000   |$500  |HMMWV            |M2           |US Army Surplus|
-|$25000   |$700  |HMMWV            |Mk19         |US Army Surplus|
-|$25000   |$700  |HMMWV M1151      |M2           |US Army Surplus|
-|$40000   |$1000  |HMMWV w/ CROWS   |M2           |US Army Surplus|
-|$45000   |$1200  |HMMWV w/ CROWS   |Mk19         |US Army Surplus|
-|$45000   |$1000  |HMMWV SOV        |M240,Mk19    |US Army Surplus|
-|$50000   |$800  |Armored SUV      |M134        |ION|
-|$65000	  |$700  |Land Rover SOV   |M240,M2		  |ION|
-|$60000	  |$800  |Land Rover SOV   |M240,Mk19		|ION|
-|$150000  |$2000  |RG-31 MRAP       |M2           |ION|
-|$155000  |$2100  |RG-31 Mk5E       |M2           |ION|
-|$155000  |$2500  |RG-31 MRAP       |Mk19         |ION|
+|$500    |$0     |UAZ              |             |Seara Shipping Co.|
+|$+0      |+$700  |UAZ Ambulance    |             |Seara Shipping Co.|
 |||||
-|$3000    |$200  |AR-2 Darter      |                     |COTS|
-|$80000  |$1000  |UH-1H          |2xM240               |US Army Surplus|
-|$150000  |$500/800  |Mi-8            |(2xPKT)            |Seara Shipping Co.|
-|$200000  |$1000  |MH-6J            |                    |ION|
-|$240000  |$3500  |AH-6J            |2xM134,2xHYDRA-7    |ION|
-|$300000  |$1000  |UH-60M            |2xM134             |ION|
+|$1000    |$0     |HMMWV            |             |US Army Surplus|
+|+$1000   |+$300  |Ambulance Conversion   |             |US Army Surplus|
+|+$500   |+$300  |w/ M240                |M240         |US Army Surplus|
+|+$500   |+$500  |w/ M2                  |M2           |US Army Surplus|
+|+$800   |+$1000 |w/ Mk19                |Mk19         |US Army Surplus|
+|+$500   |+$0    |M1151 Mount            |(M2 required)              |US Army Surplus|
+|+$1000   |+$500  |CROWS Mount            |(M2 or Mk19 required)      |US Army Surplus|
+|+$1000   |+$200  |SOV Conversion         |(M240 and Mk19 required)   |US Army Surplus|
 |||||
-|$50000  |$100  |An-2           |            |Seara Shipping Co.|
+|$2000	  |$0     |Land Rover       |		          |ION|
+|+$0	    |+$200  |Ambulance Conversion      |		          |ION|
+|+$500	  |+$400  |w/ M2            |M2		  |ION|
+|+$500	  |+$600   |SOV Conversion  |M240, (requires M2)		  |ION|
+|+$1000	  |+$1500   |SOV Conversion   |M240,Mk19		|ION|
 |||||
-|$1500    |$0  |PBX           |             |Seara Shipping Co.|
-|$4000    |$0  |Zodiac           |             |COTS|
-|$10000   |$500  |RHIB             |M2           |ION|
+|$15000  |$3000  |RG-31 MRAP       |M2           |ION|
+|+$5000  |$3500  |w/ Mk19       |Mk19         |ION|
+|||||
+|$2000   |$1000   |Armored SUV      |M134        |ION|
+|||||
+|$1000    |$200  |AR-2 Darter      |                     |COTS|
+|$5000  |$1000  |UH-1H          |2xM240               |US Army Surplus|
+|$15000  |$500/800  |Mi-8            |(2xPKT)            |Seara Shipping Co.|
+|||||
+|$20000  |$1000  |UH-60M            |2xM134             |ION|
+|||||
+|$20000  |$1000  |MH-6J            |                    |ION|
+|+$10000  |+$2500  |AH-6J            |2xM134,2xHYDRA-7    |ION|
+|||||
+|$2000  |$100  |An-2           |            |Seara Shipping Co.|
+|||||
+|$500    |$0  |PBX           |             |Seara Shipping Co.|
+|$1000    |$0  |Zodiac           |             |COTS|
+|$6000   |$500  |RHIB             |M2           |ION|
 
 
 ###SERVICES
