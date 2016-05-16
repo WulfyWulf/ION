@@ -6,6 +6,7 @@
 |Checkout Cost | Item    	 |
 | :--------- | :---------: | :------- | :----: | -------: |
 |$0  |Makarov PM	|
+|$10  |Taurus 455	|
 
 ***
 
@@ -20,6 +21,7 @@
 |Checkout Cost | Item	|
 | :--------- | :-------: | :-------- | :----: | -------: |
 |$0  |Light H-Suspender	|
+|$20  |Medium H-Suspender	|
 
 ***
 
