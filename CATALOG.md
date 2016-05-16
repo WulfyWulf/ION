@@ -38,9 +38,9 @@
 
 |Unlock Price | Checkout Cost      | Item     | Supplier
 | :---- | :------: | :------- | ---: |
-|$500   |$10  |M1911                |Local Black Market|
-|$400   |$10  |Taurus 455           |Local Black Market|
-|$800   |$10  |CZ-75 Compact        |Local Black Market|
+|$300   |$10  |M1911                |Local Black Market|
+|$200   |$10  |Taurus 455           |Local Black Market|
+|$500   |$10  |CZ-75 Compact        |Local Black Market|
 ||||
 |$800	  |$25  |MP5A5			|Local Black Market|
 |$800	  |$20 |M1014			|Local Black Market|
