@@ -14,15 +14,16 @@
 ##*INDIVIDUAL CONTRACTOR ACCOUNT STATEMENTS*
 |Contractor | Amount |
 | --------- | -------: | 
-|Nine|    $0|
+|Nine|    $300|
 |Killer|    $0|
 |Bark|    $0|
 |Yakumo|    $0|
 |Dybil|    $0|
-|Tewi|    $0|
+|Tewi|    $300|
 |Fate|    $0|
 |Quartz|    $0|
 |Pesky|    $0|
+|Rave|    $300|
 |||
 |ADD A CONTRACTOR...|    -|
 
@@ -32,4 +33,4 @@
 | :---- | :--- | -----: | :--------------: | -----: | ------: |
 |7/1/15|TRANSFER|+1000|Nobody|N/A|-|
 |7/1/15|TRANSFER|-400|Nobody|N/A|Purchasing Gear...|
-
+|7/1/15|TRANSFER|+300|Nine/Rave/Tewi|LOWLIFE COLLECTION|LUNG WO SHIPPING INC.|
