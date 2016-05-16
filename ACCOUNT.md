@@ -6,7 +6,7 @@
 >##Statement Date: 7/1/15
 >***
 >>###**COMPANY ACCOUNT BALANCE**
->>###$1,000
+>>###$600
 
 
 ***
@@ -31,5 +31,5 @@
 |Date 	| Type | Amount | Split Between... | ... at | Account |
 | :---- | :--- | -----: | :--------------: | -----: | ------: |
 |7/1/15|TRANSFER|+1000|Nobody|N/A|-|
-
+|7/1/15|TRANSFER|-400|Nobody|N/A|Purchasing Gear...|
 
