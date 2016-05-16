@@ -29,7 +29,7 @@
 
 ***
 ##*Transaction History*
-|Date 	| Type | Amount | Split Between... | ... with expenditure | Account |
+|Date 	| Type | Amount | Contractors... | ... Minus Expenditure | Account |
 | :---- | :--- | -----: | :--------------: | -----: | ------: |
 |7/1/15|TRANSFER|+1000|Nobody|N/A|-|
 |7/1/15|TRANSFER|-400|Nobody|N/A|Purchasing Gear...|
