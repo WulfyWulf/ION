@@ -7,6 +7,8 @@
 | :--------- | :---------: | :------- | :----: | -------: |
 |$0  |Makarov PM	|
 |$10  |Taurus 455	|
+|||
+|$25  |MP5A5	|
 
 ***
 
@@ -40,4 +42,4 @@
 ###VEHICLES
 |Sell Price | Checkout Cost  | Model   | Weapons 	 | Location |
 | :--------- | :---------: | :------- | :-----: | -------: |
-|$2000  |$0     |Land Rover		  |     |Waiting at the Airport...|
+|$2000  |$20     |Land Rover		  |     |Waiting at the Airport...|
