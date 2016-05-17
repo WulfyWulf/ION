@@ -22,6 +22,10 @@
 | :--------- | :-------: | :-------- | :----: | -------: |
 |$0  |Light H-Suspender	|
 |$20  |Medium H-Suspender	|
+|||
+|$10  |Police Protective Vest|
+|||
+|$50  |Shoulder Bag|
 
 ***
 
