@@ -32,7 +32,8 @@
 |Date 	| Type | Amount | Contractors... | ... Minus Expenditure | Account |
 | :---- | :--- | -----: | :--------------: | -----: | ------: |
 |7/1/15|TRANSFER|+1000|Nobody|N/A|-|
-|7/1/15|TRANSFER|-400|Nobody|N/A|Purchasing Gear...|
+|7/1/15|TRANSFER|-400|Nobody|N/A|Purchasing Inventory...|
 |7/1/15|TRANSFER|+300|Nine/Rave/Tewi|270/270/300|LUNG WO SHIPPING INC.|
 |7/1/15|TRANSFER|+500|Nine/Rave/Killer/Dybil/Yakumo|490/490/490/500/500|LUNG WO SHIPPING INC.|
+|7/1/15|TRANSFER|N/A|Nine/Rave/Killer/Dybil/Yakumo|200/300/400/300/200|Purchasing Inventory...|
 |7/1/15|TRANSFER|+700|Nine/Rave/Killer/Dybil/Yakumo|315/360/315/315/315|JAPAN|
