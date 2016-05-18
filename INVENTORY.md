@@ -42,4 +42,4 @@
 ###VEHICLES
 |Sell Price | Checkout Cost  | Model   | Weapons 	 | Location |
 | :--------- | :---------: | :------- | :-----: | -------: |
-|$2000  |$20     |Land Rover		  |     |Outside Office|
+|$2000  |$80     |Land Rover		  |     |Outside Office|
