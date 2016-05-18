@@ -75,23 +75,23 @@
 ###VEHICLES
 |Price | Checkout Cost      | Item   | Weapons  | Supplier
 :---- | :------: | :------ | :------: |---:
-|$200    |$10     |Motorbike            |             |Local Commercial|
-|$300    |$20     |Quadbike            |             |Local Commercial|
-|$300    |$30     |Sedan             |             |Local Commercial|
-|$600    |$10     |Hatchback             |             |Local Commercial|
-|$700    |$10     |Pickup Truck             |             |Local Commercial|
-|$2000    |$20     |Offroad Truck             |             |Local Commercial|
-|$1500    |$20     |Box Truck             |             |Local Commercial|
-|$2000    |$30     |Flatbed Truck             |             |Local Commercial|
+|$500    |$50     |Motorbike            |             |Local Commercial|
+|$500    |$50     |Quadbike            |             |Local Commercial|
+|$500    |$20     |Sedan             |             |Local Commercial|
+|$700    |$10     |Hatchback             |             |Local Commercial|
+|$500    |$30     |Pickup Truck             |             |Local Commercial|
+|$2000    |$70     |Offroad Truck             |             |Local Commercial|
+|$1000    |$50     |Box Truck             |             |Local Commercial|
+|$2000    |$50     |Flatbed Truck             |             |Local Commercial|
 |||||
-|$2500	  |$20     |UAZ-469       |		          |Triad|
-|$3000	  |$20     |Land Rover       |		          |Local Commercial|
+|$2500	  |$80     |UAZ-469       |		          |Triad|
+|$3000	  |$80     |Land Rover       |		          |Local Commercial|
 |||||
 |$5000  |$100  |An-2                |            |Local Commercial|
 |||||
-|$500    |$20  |PBX                  |             |Local Commercial|
-|$2000    |$20  |Zodiac              |             |Local Commercial|
-|$2000   |$40  |Fishing Boat       |           |Local Commercial|
+|$500    |$30  |PBX                  |             |Local Commercial|
+|$2000    |$30  |Zodiac              |             |Local Commercial|
+|$2000   |$10  |Fishing Boat       |           |Local Commercial|
 
 
 ###SERVICES
