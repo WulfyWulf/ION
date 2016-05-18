@@ -5,11 +5,12 @@
 >
 >**PAYOUT:** 1000/Contractor, 1000 Company
 ***
+
 ###OUTLINE
 >Your objective is to demolish the gas processing complex under construction at the south end of Fujinwan Industrial Zone.
 >
 >The complex consists of four storage tanks connected to a liquefied natural gas (LNG) liquefaction unit built into the side of the mountain (f1). The demolition will target the support columns and overhanging roof being built to contain the complex. Successful demolition will bring the upper section onto the interior and destroy the entire complex.
->
+
 ###BACKGROUND
 >The LNG processing unit and control building are being built *in situ* and will connect with Akatoshi port once construction of the dam is completed. Natural gas will be piped to the complex from the main terminal at Akatoshi port from the home islands for processing before returning to the port hub for distribution by ship as LNG. It is the largest and most expensive addition to the Fujinwan Industrial Zone and currently under a construction by a Yakuza operated contractor. Our Triad client wishes to distance the rival Yakuza from their client, a major Japanese energy company and sole pursuant of Japanese LNG industry.
 >
