@@ -44,3 +44,4 @@
 ![alt text](https://github.com/WulfyWulf/ION/blob/master/CONSTRUCTION-SABOTAGE/fuji2.jpg "f2")
 ![alt text](https://github.com/WulfyWulf/ION/blob/master/CONSTRUCTION-SABOTAGE/fuji3.jpg "f3")
 ![alt text](https://github.com/WulfyWulf/ION/blob/master/CONSTRUCTION-SABOTAGE/fuji4.jpg "f4")
+![alt text](https://github.com/WulfyWulf/ION/blob/master/CONSTRUCTION-SABOTAGE/fuji5.jpg "f5")
