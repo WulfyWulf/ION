@@ -41,16 +41,19 @@
 |$300   |$10  |CZ-75 Compact        |Triad|
 ||||
 |$800   |$30  |Micro Uzi            |Triad|
+|$1000  |$30  |MP5K                 |Japan|
 |$800	  |$20 |M1014			            |Local Black Market|
 ||||
-|$1000  |$45  |AKM        |Local Black Market|
-|$1000  |$55  |Sa.58P (Type 81 stand-in) |Triad|
+|$1500  |$40  |HK53        |Japan|
+|$1500  |$45  |AKM        |Local Black Market|
+|$1500  |$55  |Sa.58P (Type 81 stand-in) |Triad|
 ||||
-|$1500	  |$25  |FN FAL SBR	  	|Local Black Market|
+|$1000	  |$25  |MC51 SBR  	|Japan|
 ||||
 ||||
 |$1000	|$40  |CZ 550		|Local Black Market|
-|$500  |$20 |Lee Enfield      |Local Black Market|
+|$1000  |$50 |Springfield M1903 w/ Scope     |Local Black Market|
+|$500  |$10 |Springfield M1903     |Local Black Market|
 ||||
 |$1500  |$60  |M79 Grenade Launcher   |Triad|
 
@@ -59,8 +62,9 @@
 ###ORDNANCE
 |Unlock Price | Team Checkout Cost      | Item     | Supplier
 :---- | :------: | :---- | ---: |
-|$300   |$50  |Hand Flares           |Local Commercial|
+|$300   |$50  |Hand Flares            |Local Commercial|
 |$800  |$100  |RGN Offensive Grenade  |Triad|
+|$1000  |$200 |Explosive Satchels    |Triad|
 
 ***
 
