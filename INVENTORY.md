@@ -20,7 +20,7 @@
 |$0  |Makarov PM	  |- |
 |$10  |Taurus 455	  |Normal Only|
 |||
-|$25  |MP5A5	|-   |
+|$25  |MP5A2/A3	|-   |
 
 ***
 
