@@ -11,6 +11,7 @@
 |$10  |Police Protective Vest   |"TRYK Bulletproof Vest"|
 |||
 |$50  |Shoulder Bag     |"TAC Shoulder Bag"|
+|$100  |ALICE Pack      |"ALICE Pack" or "ALICE Pack Sleeping Bag"|
 
 ***
 
@@ -28,6 +29,7 @@
 |Team Checkout Cost | Item	| In-Game Notes|
 | :--------- | :---------: | -------: |
 |$20  |Chemlights	    |Any Color|
+|$200 |Explosive Satchels    |"Demolition Charge Assembly"|
 
 ***
 
