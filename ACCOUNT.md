@@ -6,7 +6,7 @@
 >##Statement Date: 7/2/15
 >***
 >>###**COMPANY ACCOUNT BALANCE**
->>###$2300
+>>###$1300
 
 
 ***
