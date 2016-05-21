@@ -6,9 +6,9 @@
 |Checkout Cost | Item	| In-Game Notes|
 | :--------- | :-------: | -------: |
 |$0  |Light H-Suspender	    |"TAC H Suspender" or "TAC H Suspender 2"|
-|$20  |Medium H-Suspender	  |"TAC H Suspender L" or "TAC H Suspender L2"|
+|$0  |Medium H-Suspender	  |"TAC H Suspender L" or "TAC H Suspender L2"|
 |||
-|$10  |Police Protective Vest   |"TRYK Bulletproof Vest"|
+|$0  |Police Protective Vest   |"TRYK Bulletproof Vest"|
 |||
 |$50  |Shoulder Bag     |"TAC Shoulder Bag"|
 |$100  |ALICE Pack      |"ALICE Pack" or "ALICE Pack Sleeping Bag"|
@@ -19,7 +19,7 @@
 |Checkout Cost | Item    	 | In-Game Notes|
 | :--------- | :---------: | -------: |
 |$0  |Makarov PM	  |- |
-|$10  |Taurus 455	  |Normal Only|
+|$0  |Taurus 455	  |Normal Only|
 |||
 |$25  |MP5A2/A3	|-   |
 
