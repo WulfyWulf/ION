@@ -11,7 +11,7 @@
 |$0  |Police Protective Vest   |"TRYK Bulletproof Vest"|
 |||
 |$50  |Shoulder Bag     |"TAC Shoulder Bag"|
-|$100  |ALICE Pack      |"ALICE Pack" or "ALICE Pack Sleeping Bag"|
+|$100  |ALICE Pack      |"ALICE Pack" or "ALICE Pack (Bedroll)"|
 
 ***
 
@@ -21,7 +21,7 @@
 |$0  |Makarov PM	  |- |
 |$0  |Taurus 455	  |Normal Only|
 |||
-|$25  |MP5A2/A3	|-   |
+|$25  |MP5A2/A3	    |-   |
 
 ***
 
