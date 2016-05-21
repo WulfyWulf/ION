@@ -30,7 +30,6 @@
 |Unlock Price | Checkout Cost    | Item     | Magazines  | Supplier
 | :---- | :------: | :------- | :--------: | ---: |
 |$500	|$80  |Medical Backpack	  |8p	|Local Milsurp|
-|$1000 	|$100  |ALICE Pack      |11p|Local Milsurp|
 
 ***
 
@@ -44,10 +43,10 @@
 |$500   |$10  |M9                   |Japan|
 ||||
 |$800   |$30  |Micro Uzi            |Triad|
-|$1000  |$30  |MP5K                 |Japan|
+|$1000  |$30  |HK MP5K                 |Japan|
 |$1000  |$25  |CPW                  |Triad|
-|$1500  |$40  |MP5SD                |Japan|
-|$500	  |$20 |M1014			            |Japan|
+|$1500  |$40  |HK MP5SD5/6                |Japan|
+|$500	  |$20  |M1014			            |Japan|
 ||||
 |$1000  |$40  |HK53           |Japan|
 |$1000  |$60  |HK33           |Japan|
