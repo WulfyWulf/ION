@@ -64,7 +64,6 @@
 :---- | :------: | :---- | ---: |
 |$300   |$50  |Hand Flares            |Local Commercial|
 |$800  |$100  |RGN Offensive Grenade  |Triad|
-|$1000  |$200 |Explosive Satchels    |Triad|
 
 ***
 
