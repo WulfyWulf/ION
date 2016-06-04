@@ -8,10 +8,15 @@
 |$0  |Light H-Suspender	    |"TAC H Suspender" or "TAC H Suspender 2"|
 |$0  |Medium H-Suspender	  |"TAC H Suspender L" or "TAC H Suspender L2"|
 |||
-|$0  |Police Protective Vest   |"TRYK Bulletproof Vest"|
+|$0  |Police Protective Vest    |"TRYK Bulletproof Vest"|
+|$60  |TAC V-1 Basic Vest	      |"TAC V-1"|
 |||
-|$50  |Shoulder Bag     |"TAC Shoulder Bag"|
-|$100  |ALICE Pack      |"ALICE Pack" or "ALICE Pack (Bedroll)"|
+|$20  |Chinese Steel Helmet	    |"SLA Infantry Helmet"|
+|||
+|$50  |Shoulder Bag             |"TAC Shoulder Bag"|
+|$100 |ALICE Pack               |"ALICE Pack" or "ALICE Pack (Bedroll)"|
+|$80  |Medical Backpack         |"Medical Bag" (All)|
+
 
 ***
 
