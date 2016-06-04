@@ -17,7 +17,7 @@
 |Nine|    $1940|
 |Killer|    $1070|
 |Bark|    $1075|
-|Yakumo|    $1510|
+|Yakumo|    $1710|
 |Dybil|    $1740|
 |Tewi|    $300|
 |Fate|    $0|
@@ -38,4 +38,4 @@
 |7/1/15|TRANSFER|N/A|Nine/Rave/Killer/Dybil/Yakumo|200/300/400/300/200|Purchasing Inventory...|
 |7/1/15|TRANSFER|+700|Nine/Rave/Killer/Dybil/Yakumo|315/360/315/315/315|[JAPAN] Internal Security|
 |7/2/15|TRANSFER|+1000|Nine/Rave/Killer/Dybil/Yakumo/Bark|865/865/925/925/895/875|[TRIAD] Construction Demolition|
-|7/3/15|TRANSFER|N/A|Nine/Bark/Killer/Dybil/|200/200/200/200|Practice Incentive|
+|7/3/15|TRANSFER|N/A|Nine/Killer/Dybil/Yakumo/Bark|200/200/200/200/200|Practice Incentive|
