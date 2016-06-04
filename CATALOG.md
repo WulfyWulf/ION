@@ -8,7 +8,7 @@
 ####Helmets
 |Unlock Price | Checkout Cost | Item   | [Protection](http://www.safeguardarmor.com/support/body-armor-protection-levels/) | Supplier|
 |:----- | :-----:  | :-------- | :--------: | ---: |
-|$400	|$20   |Chinese Steel Helmet 	    |IIa 	|Triad|
+||||||
 
 ***
 
@@ -24,13 +24,11 @@
 |Unlock Price | Checkout Cost  | Item | Magazines | [Protection](http://www.safeguardarmor.com/support/body-armor-protection-levels/) | Supplier |
 | :---- | :------: | :------- | :-------: | :--------: | ---: |
 |$500   |$30   |VIP Plate Rig       |2p |II   |Japan|
-|$800   |$60   |TAC V-1 Basic Vest  |6p |IIIa   |Japan|
 
 ####Backpacks
 |Unlock Price | Checkout Cost    | Item     | Magazines  | Supplier
 | :---- | :------: | :------- | :--------: | ---: |
-|$500	|$80  |Medical Backpack	  |8p	|Local Milsurp|
-
+||||||
 ***
 
 ###FIREARMS
