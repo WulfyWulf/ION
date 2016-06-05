@@ -27,6 +27,9 @@
 |$0  |Taurus 455	  |Normal Only|
 |||
 |$25  |MP5A2/A3	    |-   |
+|$40  |MP5SD5/SD6	  |-   |
+|||
+|$60  |M4A1	        |Normal Only|
 
 ***
 
@@ -42,7 +45,10 @@
 |Checkout Cost | Item	| In-Game Notes|
 | :--------- | :---------: | -------: |
 |||||
+|$0  |Gun Flashlight   |-      |
+|||||
 |$20  |Binoculars    |-      |
+
 
 ***
 
