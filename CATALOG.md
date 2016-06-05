@@ -43,12 +43,10 @@
 |$800   |$30  |Micro Uzi            |Triad|
 |$1000  |$30  |HK MP5K                 |Japan|
 |$1000  |$25  |CPW                  |Triad|
-|$1500  |$40  |HK MP5SD5/6                |Japan|
 |$500	  |$20  |M1014			            |Japan|
 ||||
 |$1000  |$40  |HK53           |Japan|
 |$1000  |$60  |HK33           |Japan|
-|$2000  |$60  |M4A1           |Japan|
 |$1000  |$45  |AKM            |Triad|
 |$1000  |$55  |Sa.58P (Type 81 stand-in) |Triad|
 ||||
@@ -80,8 +78,6 @@
 |$800  |$50  |Ballistic Shield (M9 required)    |Japan|
 |||||
 |$1000  |$20  |Light Suppressor (Pistol/SMG)        |Triad|
-|||||
-|$1000  |$0  |Gun Flashlight                    |Local Commercial|
 |||||
 |$500   |$40  |Zeiss 1.5–6x Scope (HK53,33,G3)  |Japan|
 |$1000  |$20  |Aimpoint CompM4                  |Local Commercial|
