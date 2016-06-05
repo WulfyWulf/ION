@@ -12,14 +12,14 @@
 
 
 ###BACKGROUND
->It is 5:30 AM. Triad gang members have escaped from a raid on an Akatoshi fishing warehouse used as a front for illegal activity. They have fled in six vehicles with the aid of other local Triads and were pursued to Ryoushi Mura, where they were forced to stop. Four officers have been shot already, and a cordon has been drawn to prevent the Triads' escape. The JSDF has been called in to assist with controlling bridge and sea access. They will act only in a support role but are cleared to engage any threats that present themselves.
+>It is 4:00 AM. Triad gang members have escaped from a raid on an Akatoshi fishing warehouse used as a front for illegal activity. They have fled in six vehicles with the aid of other local Triads and were pursued to Ryoushi Mura, where they were forced to stop. Four officers have been shot already, and a cordon has been drawn to prevent the Triads' escape. The JSDF has been called in to assist with controlling bridge and sea access. They will act only in a support role but are cleared to engage any threats that present themselves.
 
 >Most of the civilian population has been evacuated, but a handful remain in their homes or have been taken hostage by the Triads. The Triads are demanding they be allowed safe passage or the hostages will be shot at daybreak. 
 
 ###EXECUTION
 >You can enter either by the edges of town or by boat (courtesy of JSDF). If you enter by town, you will have the assistance of local law enforcement to secure areas behind you. Entering by boat will allow you to approach from the beach, where movement is lighter.
 
->You must secure hostages held in two buildings, 1 and 2 (t2,t3), in order to complete the contract.
+>You must secure hostages held in two buildings, 1 and 2 (t1,t3), in order to complete the contract.
 
 >You will have the support of a police helicopter that will provide updates on criminal movement in the town. 
 
