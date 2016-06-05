@@ -3,10 +3,10 @@
 > ###From: ETS Bank AG, AMS (no reply)
 
 ----------
->##Statement Date: 7/3/15
+>##Statement Date: 7/10/15
 >***
 >>###**COMPANY ACCOUNT BALANCE**
->>###$1300
+>>###$2280
 
 
 ***
@@ -14,11 +14,11 @@
 ##*INDIVIDUAL CONTRACTOR ACCOUNT STATEMENTS*
 |Contractor | Amount |
 | --------- | -------: | 
-|Nine|    $240|
-|Killer|    $270|
-|Bark|    $275|
-|Yakumo|    $310|
-|Dybil|    $240|
+|Nine|    $785|
+|Killer|    $785|
+|Bark|    $735|
+|Yakumo|    $790|
+|Dybil|    $920|
 |Tewi|    $300|
 |Fate|    $0|
 |Quartz|    $0|
@@ -40,3 +40,4 @@
 |7/2/15|TRANSFER|+1000|Nine/Rave/Killer/Dybil/Yakumo/Bark|865/865/925/925/895/875|[TRIAD] Construction Demolition|
 |7/3/15|TRANSFER|N/A|Nine/Killer/Dybil/Yakumo/Bark|200/200/200/200/200|Practice Incentive|
 |7/3/15|TRANSFER|N/A|Nine/Killer/DybilYakumo/Bark|1700/800/1500/1400/800|Purchasing Inventory...|
+|7/10/15|TRANSFER|+700|Nine/Killer/Dybil/Yakumo/Bark|545/515/680/480/460|[JAPAN] Immediate Action|
