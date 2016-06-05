@@ -14,11 +14,11 @@
 ##*INDIVIDUAL CONTRACTOR ACCOUNT STATEMENTS*
 |Contractor | Amount |
 | --------- | -------: | 
-|Nine|    $1940|
+|Nine|    $240|
 |Killer|    $270|
-|Bark|    $1075|
-|Yakumo|    $810|
-|Dybil|    $1740|
+|Bark|    $275|
+|Yakumo|    $310|
+|Dybil|    $240|
 |Tewi|    $300|
 |Fate|    $0|
 |Quartz|    $0|
@@ -39,4 +39,4 @@
 |7/1/15|TRANSFER|+700|Nine/Rave/Killer/Dybil/Yakumo|315/360/315/315/315|[JAPAN] Internal Security|
 |7/2/15|TRANSFER|+1000|Nine/Rave/Killer/Dybil/Yakumo/Bark|865/865/925/925/895/875|[TRIAD] Construction Demolition|
 |7/3/15|TRANSFER|N/A|Nine/Killer/Dybil/Yakumo/Bark|200/200/200/200/200|Practice Incentive|
-|7/3/15|TRANSFER|N/A|Killer/Yakumo|800/900|Purchasing Inventory...|
+|7/3/15|TRANSFER|N/A|Nine/Killer/DybilYakumo/Bark|1700/800/1500/1400/800|Purchasing Inventory...|
